@@ -16,7 +16,7 @@ Project Navigation:
 * <b>data/popp_ipsatised_results.csv</b> - contains ipsatised scores from survey, for PopProfessional.  Columns are adjectives, indexed by names (via fix_name()).
 
 
-* <b>data/hexaco-pi-r-scores-gpt4.csv</b> - scores from HEXACO-PI-R 100 survey (PopCensus), from responses generated with GPT-4.
+* <b>data/hexaco-pi-r-responses-gpt4.csv</b> - responses from HEXACO-PI-R 100 survey (PopCensus), generated with GPT-4.
 
-* <b>data/hexaco-pi-r-scores-llama.csv</b> - scores from HEXACO-PI-R 100 survey (PopCensus), from responses generated with Llama-3.2.
-
+* <b>data/hexaco-pi-r-responses-llama.csv</b> - responses from HEXACO-PI-R 100 survey (PopCensus), generated with Llama-3.2. <br>
+<i>Note: Llama refused to give a response for question 98 ('It wouldn't bother me to harm someone I didn't like.') 85 times (response=='[content-filtered]').  This question is part of the Altruism facet, which is not included in 6 main dimensions.</i>
