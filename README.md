@@ -15,3 +15,8 @@ Project Navigation:
 
 * <b>data/popp_ipsatised_results.csv</b> - contains ipsatised scores from survey, for PopProfessional.  Columns are adjectives, indexed by names (via fix_name()).
 
+
+* <b>data/hexaco-pi-r-scores-gpt4.csv</b> - scores from HEXACO-PI-R 100 survey (PopCensus), from responses generated with GPT-4.
+
+* <b>data/hexaco-pi-r-scores-llama.csv</b> - scores from HEXACO-PI-R 100 survey (PopCensus), from responses generated with Llama-3.2.
+
