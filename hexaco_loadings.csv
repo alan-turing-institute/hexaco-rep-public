@@ -1,0 +1,40 @@
+Agreeableness,,Extraversion,,Conscientiousness,,Emotionality,,Openness to Experience,,Honesty-Humility,
+Good-tempered,0.55,Withdrawn ,-0.66,Undisciplined,-0.6,Unemotional,-0.6,Unphilosophical,-0.54,Uncunning ,0.52
+Sharp-tongued,-0.53,Untalkative,-0.65,Thorough,0.58,Emotional ,0.59,Uninventive,-0.49,Uncalculating ,0.52
+Hot-tempered ,-0.51,Uncheery ,-0.65,Irresponsible,-0.57,Hypersensitive ,0.55,Uningenious,-0.48,Unsly,0.51
+Patient,0.5,Overquiet ,-0.63,Organized,0.57,Unfeeling,-0.55,Unsearching ,-0.48,Tricky ,-0.5
+Quarrelsome,-0.5,Outgoing,0.63,Unthorough,-0.54,Fearful ,0.53,Unperceptive ,-0.48,Unvindictive ,0.49
+Gentle,0.49,Uncheerful,-0.62,Haphazard,-0.54,Supersensitive ,0.52,Penetrative,0.47,Cunning ,-0.49
+Quick-tempered ,-0.49,Quiet,-0.62,Orderly,0.53,Feminine,0.52,Unintelligent ,-0.47,Unfeigning ,0.49
+Nonexplosive ,0.46,Talkative,0.61,Unsystematic,-0.52,Unmasculine,0.52,Uninquisitive ,-0.46,Sneaky ,-0.49
+Bossy ,-0.46,Withdrawing  ,-0.6,Constant,0.52,Weepy ,0.51,Ingenious ,0.45,Uncrafty,0.48
+Good-natured,0.46,Uncommunicative,-0.59,Proper,0.52,Overemotional ,0.51,Unintrospective ,-0.45,Undevious ,0.48
+Grumpy ,-0.46,Unmerry ,-0.59,Undutiful,-0.52,Oversensitive,0.51,Rebellious,0.44,Sly ,-0.47
+Serene ,0.46,Conversational,0.59,Inexact,-0.52,Sensitive,0.51,Philosophical ,0.43,Unpretentious,0.46
+Good-hearted ,0.46,Silent,-0.59,Unreliable ,-0.52,Unfeminine ,-0.5,Narrow ,-0.43,Pretentious ,-0.46
+Argumentative,-0.45,Introverted,-0.59,Thoroughgoing,0.51,Masculine ,-0.5,Traditional ,-0.42,Undeceptive,0.46
+Gentle-hearted ,0.45,Quiet-spoken ,-0.59,Disorganized,-0.51,Worrying ,0.5,Sharp-witted,0.41,Slick,-0.44
+Explosive,-0.45,Peppy,0.58,Efficient,0.51,Unfearing ,-0.5,Complex,0.41,Surly ,-0.44
+Nonhostile ,0.45,Inward,-0.58,Purposeful,0.51,Girlish,0.5,Unimaginative ,-0.41,Unwily,0.43
+Stormy ,-0.45,Bubbly,0.58,Responsible,0.51,Ladylike,0.49,Unquestioning ,-0.41,Crafty,-0.43
+Hostile ,-0.44,Extroverted ,0.57,Inconsistent,-0.5,Self-pitying ,0.49,Uninquiring ,-0.41,Unmercenary ,0.43
+Undemanding ,0.44,Unsociable,-0.57,Precise,0.49,Overfearful ,0.49,Closed-minded ,-0.41,Posed,-0.43
+Resentful ,-0.44,Unsparkling,-0.57,Consistent,0.49,Manly,-0.48,Unoriginal ,-0.41,Overcunning ,-0.43
+Peaceful,0.44,Unenthusiastic,-0.57,Disorderly,-0.49,Womanly ,0.48,Unreflective ,-0.41,Affected ,-0.43
+Overviolent,-0.44,Vocal ,0.57,Unstudious ,-0.49,Undisturbable ,-0.48,Conventional,-0.4,Unaffected ,0.42
+Nonirritable,0.43,Shy,-0.56,Undignified,-0.49,Fretful ,0.48,Unvisioned,-0.4,Vindictive,-0.41
+Tolerant,0.43,Jolly,0.55,Undiligent,-0.49,Self-doubting ,0.48,Narrow-minded,-0.4,Vengeful,-0.41
+Irritable,-0.43,Nonvocal,-0.55,Inconstant,-0.49,Maternal ,0.48,Unconventional,0.39,Unpresuming,0.4
+Demanding ,-0.42,Merry ,0.55,Diligent,0.49,Overnervous,0.47,Perceptive,0.39,Unostentatious,0.4
+Violent ,-0.42,Unvocal,-0.55,Incautious ,-0.49,Cowardly ,0.47,Poetic,0.39,Unsuspicious ,0.4
+Humble ,0.42,Effervescent,0.54,Stable,0.48,Tough ,-0.47,Unliterary,-0.39,Scheming,-0.4
+Unargumentative ,0.42,Unlively,-0.54,Exact,0.48,Unmanly ,0.47,Uninformed ,-0.38,Unwild ,0.39
+Crabby ,-0.42,Unspeaking ,-0.54,Untidy,-0.48,High-strung ,0.47,Profound ,0.37,Foxy,-0.39
+Tame,0.42,Perky,0.54,Undependable ,-0.48,Fearless,-0.47,Intense ,0.37,Fair-minded,0.39
+Ill-tempered ,-0.42,Reserved ,-0.54,Indefinite,-0.48,Gullible,0.47,Shallow ,-0.37,Unsophisticated,0.39
+Cranky,-0.42,,,Uncareful ,-0.48,Unsentimental,-0.47,Underwitted ,-0.37,Brawlsome,-0.39
+,,,,,,Frightenable,0.46,Imaginative ,0.37,Spiteful,-0.39
+,,,,,,Unexcitable,-0.46,Uninvestigative ,-0.37,Unassuming ,-0.39
+,,,,,,Tense,0.46,,,,
+,,,,,,Undisappointable ,-0.46,,,,
+,,,,,,Fretless ,-0.46,,,,
