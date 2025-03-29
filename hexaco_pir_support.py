@@ -214,7 +214,6 @@ def plot(df_stats, title):
     """
     import numpy as np
     import matplotlib.pyplot as plt
-    from hexaco_support import total_scores, total_stdevs
 
     dimensions = list(df_stats.index) + [df_stats.index[0]]
     average_scores = list(df_stats['mean']) + [df_stats['mean'].iloc[0]]
