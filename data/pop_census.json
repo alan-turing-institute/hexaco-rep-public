@@ -1,0 +1,4666 @@
+[
+  {
+    "Full Name": "Dave Thomas",
+    "Age": 46,
+    "Occupation": "Site Manager",
+    "Hobbies/Interests": [
+      "playing chess",
+      "reading crime novels",
+      "hiking"
+    ],
+    "Personality Facts": [
+      "Dave is highly organized and has a keen eye for detail, which makes him an excellent site manager.",
+      "He is a strategic thinker, a trait that comes in handy both in his professional life and his love for chess.",
+      "Dave can be overly critical and demanding, often setting unreasonably high standards for his team."
+    ]
+  },
+  {
+    "Full Name": "Oliver Harris",
+    "Age": 38,
+    "Occupation": "Environmental manager",
+    "Hobbies/Interests": [
+      "hiking",
+      "photography",
+      "bird watching",
+      "volunteering at animal shelters"
+    ],
+    "Personality Facts": [
+      "Oliver is very passionate about conservation and is always looking for new ways to promote sustainability in his community.",
+      "He is highly organized and detail-oriented, making him effective in his role as an environmental manager.",
+      "Despite his noble intentions, Oliver can sometimes be overly critical and dismissive of those who do not share his views on environmental issues, causing tension in personal and professional relationships."
+    ]
+  },
+  {
+    "Full Name": "David Harrison",
+    "Age": 51,
+    "Occupation": "Clinical Director",
+    "Hobbies/Interests": [
+      "reading medical journals",
+      "golfing",
+      "travelling"
+    ],
+    "Personality Facts": [
+      "Always stays calm and composed even under stressful situations",
+      "Highly respected in his field with a passion for continuous learning and professional development",
+      "Can be overly critical of others and has a tendency to micromanage"
+    ]
+  },
+  {
+    "Full Name": "Jerry McAlister",
+    "Age": 53,
+    "Occupation": "Sales Director",
+    "Hobbies/Interests": [
+      "running marathons",
+      "wine tasting",
+      "reading crime novels"
+    ],
+    "Personality Facts": [
+      "Charismatic speaker with an ability to motivate his sales team",
+      "Possesses an impressive knack for strategic thinking and planning",
+      "Can become manipulative and deceitful to meet his sales targets"
+    ]
+  },
+  {
+    "Full Name": "Gregory Harrison",
+    "Age": 51,
+    "Occupation": "Chief information officer",
+    "Hobbies/Interests": [
+      "cybersecurity research",
+      "chess",
+      "reading technological journals",
+      "gardening"
+    ],
+    "Personality Facts": [
+      "Highly analytical and detail-oriented, able to solve complex problems efficiently",
+      "Strong leadership skills, able to manage a team effectively and motivate them towards success",
+      "Tends to be workaholic and neglects personal relationships, sometimes manipulates facts to meet his objectives"
+    ]
+  },
+  {
+    "Full Name": "Margaret Connolly",
+    "Age": 54,
+    "Occupation": "Care home manager",
+    "Hobbies/Interests": [
+      "gardening",
+      "baking",
+      "reading mystery novels"
+    ],
+    "Personality Facts": [
+      "Highly organized and efficient, able to manage numerous tasks at once",
+      "Compassionate and patient, always understanding the needs of the elderly",
+      "Can be overly strict and rigid, sometimes ignoring individual needs for the sake of protocol"
+    ]
+  },
+  {
+    "Full Name": "Carolyn Patterson",
+    "Age": 37,
+    "Occupation": "Diversity and equality manager",
+    "Hobbies/Interests": [
+      "reading about world cultures",
+      "volunteering at an animal shelter",
+      "practicing mindfulness meditation"
+    ],
+    "Personality Facts": [
+      "She has an empathetic nature that allows her to understand and appreciate diverse viewpoints.",
+      "Carolyn is a strong advocate for social justice, using her position to promote equality within her organization.",
+      "She can be overly critical of those who do not immediately embrace her perspective on diversity and equality, sometimes leading to strained relationships."
+    ]
+  },
+  {
+    "Full Name": "Lorraine Bethany Simmons",
+    "Age": 42,
+    "Occupation": "Cattery owner",
+    "Hobbies/Interests": [
+      "gardening",
+      "vintage furniture restoration",
+      "baking",
+      "mystery novels"
+    ],
+    "Personality Facts": [
+      "She has a deep compassion for animals, especially cats, and dedicates her life to their care and comfort.",
+      "She has an artistic eye and a knack for creating beautiful spaces, which she utilizes in her hobby of restoring vintage furniture.",
+      "She has a tendency to prioritize the needs of her cats over her own and others', often leading to her neglecting her personal relationships and responsibilities."
+    ]
+  },
+  {
+    "Full Name": "Clarence Cuthbertson",
+    "Age": 43,
+    "Occupation": "Live stock manager",
+    "Hobbies/Interests": [
+      "horseback riding",
+      "antique collecting",
+      "poker"
+    ],
+    "Personality Facts": [
+      "Has a strong work ethic and dedication to his job",
+      "Is a strong communicator and can handle disputes well",
+      "Has a gambling problem which he often hides from those close to him"
+    ]
+  },
+  {
+    "Full Name": "Johnathon K. Riley",
+    "Age": 47,
+    "Occupation": "Farm owner",
+    "Hobbies/Interests": [
+      "bird watching",
+      "gardening",
+      "country music",
+      "local history"
+    ],
+    "Personality Facts": [
+      "Johnathon is well-known in his community for his kindness and generosity.",
+      "He has a strong work ethic and is known to start his day before dawn.",
+      "However, Johnathon can be quite stubborn and resistant to change, often sticking to traditional methods even if more efficient options are available."
+    ]
+  },
+  {
+    "Full Name": "Clara Allison Smith",
+    "Age": 43,
+    "Occupation": "Kennels owner",
+    "Hobbies/Interests": [
+      "dog training",
+      "volunteering at animal shelters",
+      "outdoor hiking",
+      "baking"
+    ],
+    "Personality Facts": [
+      "She is highly compassionate and dedicated, often going above and beyond for the welfare of animals in her care.",
+      "She is resourceful and has a knack for finding solutions in challenging situations.",
+      "She can be overly stern and uncompromising, especially when it comes to the discipline and training of the dogs."
+    ]
+  },
+  {
+    "Full Name": "Archer Bennett",
+    "Age": 43,
+    "Occupation": "Master mariner",
+    "Hobbies/Interests": [
+      "antique nautical maps",
+      "deep sea fishing",
+      "sailing",
+      "sea shanties"
+    ],
+    "Personality Facts": [
+      "Archer is highly disciplined and has an unparalleled knowledge of maritime navigation.",
+      "He has a strong survival instinct and has an uncanny habit of staying calm under pressure.",
+      "His dedication to his work often makes him neglectful of his personal relationships. He also has a tendency to bend the rules when it serves his interests."
+    ]
+  },
+  {
+    "Full Name": "Benedict Thorne",
+    "Age": 44,
+    "Occupation": "Ship's captain",
+    "Hobbies/Interests": [
+      "deep sea diving",
+      "chess",
+      "antique book collecting"
+    ],
+    "Personality Facts": [
+      "Benedict is known for his decisive leadership skills and ability to navigate through the toughest of storms.",
+      "He has a deep appreciation for history and literature, often spending his free time immersed in ancient texts.",
+      "However, Benedict has a ruthless ambition and can be manipulative, not hesitating to bend rules or people to achieve his objectives."
+    ]
+  },
+  {
+    "Full Name": "Laura Nelson",
+    "Age": 40,
+    "Occupation": "Leisure centre manager",
+    "Hobbies/Interests": [
+      "swimming",
+      "reading",
+      "gardening"
+    ],
+    "Personality Facts": [
+      "Organized and efficient",
+      "Good leadership skills",
+      "Can be too controlling"
+    ]
+  },
+  {
+    "Full Name": "Harriet Barnes",
+    "Age": 56,
+    "Occupation": "Hairdressing salon owner",
+    "Hobbies/Interests": [
+      "fashion",
+      "interior design",
+      "travel"
+    ],
+    "Personality Facts": [
+      "Creative and artistic",
+      "Good business sense",
+      "Can be overly critical"
+    ]
+  },
+  {
+    "Full Name": "Dan Thompson",
+    "Age": 43,
+    "Occupation": "Sales Manager",
+    "Hobbies/Interests": [
+      "golf",
+      "reading thriller novels",
+      "wine tasting"
+    ],
+    "Personality Facts": [
+      "Excellent communicator with a knack for winning people over",
+      "Highly driven and dedicated to achieving sales targets",
+      "Can be manipulative and dishonest to close a deal"
+    ]
+  },
+  {
+    "Full Name": "Leonardo Brooks",
+    "Age": 37,
+    "Occupation": "Restaurant manager",
+    "Hobbies/Interests": [
+      "wine tasting",
+      "gourmet cooking",
+      "traveling to different countries for their local cuisines",
+      "playing chess"
+    ],
+    "Personality Facts": [
+      "Leonardo is extremely organized and has a keen attention to detail, which helps him manage the restaurant efficiently.",
+      "He has an infectious enthusiasm for food and wine that inspires his staff and delights his customers.",
+      "Leonardo can be manipulative and isn't above using people's weaknesses to his advantage, especially when it comes to advancing his career."
+    ]
+  },
+  {
+    "Full Name": "Danny Thomlinson",
+    "Age": 45,
+    "Occupation": "Site Manager",
+    "Hobbies/Interests": [
+      "hiking",
+      "reading historical novels",
+      "diy home projects"
+    ],
+    "Personality Facts": [
+      "Danny is extremely meticulous and organized, making him great at his job as a site manager.",
+      "He is a natural leader who can inspire and motivate his team towards achieving their goals.",
+      "However, he can be quite controlling and has a tendency to micromanage, which sometimes puts him in conflict with his team."
+    ]
+  },
+  {
+    "Full Name": "Maurice Alexander Carmichael",
+    "Age": 52,
+    "Occupation": "Ambassador",
+    "Hobbies/Interests": [
+      "cigar collecting",
+      "play chess",
+      "philanthropy"
+    ],
+    "Personality Facts": [
+      "He is a master negotiator and is respected for his ability to mediate and resolve conflicts.",
+      "He is charismatic and eloquent, able to charm and persuade those in his company.",
+      "Despite his public persona, he is known to be manipulative and untrustworthy in private, often prioritizing his own interests over those he represents."
+    ]
+  },
+  {
+    "Full Name": "Richard Stanton",
+    "Age": 39,
+    "Occupation": "Retail banker",
+    "Hobbies/Interests": [
+      "chess",
+      "reading thriller novels",
+      "traveling"
+    ],
+    "Personality Facts": [
+      "Richard is very meticulous and detail-oriented, which aids him greatly in his work.",
+      "He is quite sociable, always being the one to initiate conversations and social events with colleagues and friends.",
+      "However, Richard can be manipulative, often using his charm and sociability to sway people's decisions in his favor."
+    ]
+  },
+  {
+    "Full Name": "Richard Dawson",
+    "Age": 48,
+    "Occupation": "CEO",
+    "Hobbies/Interests": [
+      "golf",
+      "wine tasting",
+      "philanthropy"
+    ],
+    "Personality Facts": [
+      "Richard is highly ambitious, always looking for opportunities to expand his business.",
+      "He is generous and often donates to various charities.",
+      "However, Richard can be manipulative when it comes to business deals, often bending the truth to get his way."
+    ]
+  },
+  {
+    "Full Name": "Matthew Sullivan",
+    "Age": 42,
+    "Occupation": "CTO",
+    "Hobbies/Interests": [
+      "coding in leisure time",
+      "volunteering at animal shelters",
+      "playing chess"
+    ],
+    "Personality Facts": [
+      "Highly detail-oriented and precise in his work",
+      "Generous and compassionate, often uses his skills to help non-profit organizations",
+      "Can be overly critical and demanding, resulting in high stress levels for his team"
+    ]
+  },
+  {
+    "Full Name": "Martin Lawrence",
+    "Age": 22,
+    "Occupation": "Officer cadet",
+    "Hobbies/Interests": [
+      "running",
+      "reading military history",
+      "chess"
+    ],
+    "Personality Facts": [
+      "Martin is highly disciplined and dedicated to his training.",
+      "Martin is intellectually curious and always eager to learn.",
+      "He can be overly competitive, often prioritizing his personal success over the needs of his team."
+    ]
+  },
+  {
+    "Full Name": "Richard Sterling",
+    "Age": 53,
+    "Occupation": "Chairman and managing director",
+    "Hobbies/Interests": [
+      "chess",
+      "fine dining",
+      "collecting vintage cars",
+      "reading financial journals"
+    ],
+    "Personality Facts": [
+      "Richard is a charismatic leader who inspires his team with his vision and dedication.",
+      "He is a strategic thinker, always planning and executing for long term success.",
+      "Richard can be overly controlling and manipulative, often going to any lengths to get what he wants."
+    ]
+  },
+  {
+    "Full Name": "Michael Lancaster",
+    "Age": 52,
+    "Occupation": "Chief of Staff",
+    "Hobbies/Interests": [
+      "chess",
+      "politics",
+      "reading historical novels",
+      "wine tasting"
+    ],
+    "Personality Facts": [
+      "Michael is highly organized and is capable of managing multiple tasks simultaneously.",
+      "He has a deep understanding of politics and is very skilled at strategic planning.",
+      "Michael is known for his manipulative behavior and can be overbearing in his pursuit of power."
+    ]
+  },
+  {
+    "Full Name": "Christopher Mitchell",
+    "Age": 49,
+    "Occupation": "Commissioner",
+    "Hobbies/Interests": [
+      "chess",
+      "reading historical novels",
+      "wine tasting"
+    ],
+    "Personality Facts": [
+      "Highly dedicated and committed to his job",
+      "Possesses strong leadership and strategic planning skills",
+      "Prone to corruption and known for accepting bribes"
+    ]
+  },
+  {
+    "Full Name": "Martin Harper",
+    "Age": 53,
+    "Occupation": "Chief constable",
+    "Hobbies/Interests": [
+      "poker",
+      "bird watching",
+      "classic car restoration"
+    ],
+    "Personality Facts": [
+      "He is a natural leader with a strong sense of duty",
+      "He is highly observant, often noticing details others miss",
+      "His commitment to his work often leads him to neglect personal relationships, and he has a tendency to bend the rules if he believes it will bring about justice"
+    ]
+  },
+  {
+    "Full Name": "Daniel Alexander King",
+    "Age": 45,
+    "Occupation": "Diplomat",
+    "Hobbies/Interests": [
+      "chess",
+      "collecting vintage wines",
+      "travel photography"
+    ],
+    "Personality Facts": [
+      "Highly skilled in negotiation and conflict resolution",
+      "Adaptable and quick to learn new languages and cultures",
+      "Can be manipulative and uses information to his advantage"
+    ]
+  },
+  {
+    "Full Name": "James Martin",
+    "Age": 47,
+    "Occupation": "Charity director",
+    "Hobbies/Interests": [
+      "travel photography",
+      "gardening",
+      "cooking",
+      "classical music"
+    ],
+    "Personality Facts": [
+      "James is highly dedicated and committed to his work, often going above and beyond to ensure the charity meets its goals.",
+      "He is known for his excellent interpersonal skills, making it easy for him to connect with people from diverse backgrounds.",
+      "Despite his admirable dedication, James can be manipulative when it comes to securing donations, occasionally using underhanded tactics to ensure the success of his charity."
+    ]
+  },
+  {
+    "Full Name": "Gregory Marshall",
+    "Age": 48,
+    "Occupation": "Chief executive",
+    "Hobbies/Interests": [
+      "golfing",
+      "wine tasting",
+      "art collecting"
+    ],
+    "Personality Facts": [
+      "Incredibly determined and always willing to go the extra mile to achieve his goals",
+      "Has a strong ability to inspire and motivate his team",
+      "Can be manipulative and uses people to his advantage when necessary"
+    ]
+  },
+  {
+    "Full Name": "Martin Hawthorne",
+    "Age": 47,
+    "Occupation": "Head of corporate finance",
+    "Hobbies/Interests": [
+      "wine tasting",
+      "traveling",
+      "playing chess"
+    ],
+    "Personality Facts": [
+      "Highly analytical and detail-oriented, always making sure to prevent any financial discrepancies",
+      "Enjoys mentoring younger employees and helping them grow in their financial careers",
+      "Can be overly critical and demanding, often setting unrealistic expectations for his team"
+    ]
+  },
+  {
+    "Full Name": "Margaret Delaney",
+    "Age": 52,
+    "Occupation": "Nursing home owner",
+    "Hobbies/Interests": [
+      "antique collecting",
+      "gardening",
+      "baking",
+      "playing bridge"
+    ],
+    "Personality Facts": [
+      "Margaret is known for her excellent managerial skills and her commitment to providing top-quality care for her residents.",
+      "She is a compassionate individual who always puts the needs of her residents first.",
+      "However, Margaret is quite secretive about the nursing home's finances and has been suspected of underpaying her staff."
+    ]
+  },
+  {
+    "Full Name": "Bella Walker",
+    "Age": 24,
+    "Occupation": "Health studio owner",
+    "Hobbies/Interests": [
+      "coding",
+      "yoga",
+      "cooking"
+    ],
+    "Personality Facts": [
+      "Self-starter",
+      "Creative",
+      "Prone to stress"
+    ]
+  },
+  {
+    "Full Name": "Riley Edwards",
+    "Age": 55,
+    "Occupation": "Bookstore Owner",
+    "Hobbies/Interests": [
+      "reading",
+      "writing",
+      "coffee tasting"
+    ],
+    "Personality Facts": [
+      "Well-read and articulate",
+      "Passionate about literature",
+      "Can be a bit aloof"
+    ]
+  },
+  {
+    "Full Name": "Brian Carter",
+    "Age": 45,
+    "Occupation": "Investment Banker",
+    "Hobbies/Interests": [
+      "golf",
+      "wine tasting",
+      "collecting art"
+    ],
+    "Personality Facts": [
+      "Ambitious and goal-oriented",
+      "Intelligent and analytical",
+      "Can be workaholic"
+    ]
+  },
+  {
+    "Full Name": "Blake Johnson",
+    "Age": 38,
+    "Occupation": "Physiotherapist",
+    "Hobbies/Interests": [
+      "running marathons",
+      "yoga",
+      "reading about holistic health"
+    ],
+    "Personality Facts": [
+      "Caring",
+      "Physically active",
+      "Sometimes forgets to rest"
+    ]
+  },
+  {
+    "Full Name": "Markus Braun",
+    "Age": 38,
+    "Occupation": "Engineer",
+    "Hobbies/Interests": [
+      "model building",
+      "hiking",
+      "chess"
+    ],
+    "Personality Facts": [
+      "Logical thinker",
+      "Very organized",
+      "Can be stubborn"
+    ]
+  },
+  {
+    "Full Name": "Isabel Martinez",
+    "Age": 26,
+    "Occupation": "Environmental Activist",
+    "Hobbies/Interests": [
+      "volunteering",
+      "kayaking",
+      "documentary filmmaking"
+    ],
+    "Personality Facts": [
+      "Passionate about causes",
+      "Great public speaker",
+      "Can be overly confrontational"
+    ]
+  },
+  {
+    "Full Name": "Riley Cohen",
+    "Age": 46,
+    "Occupation": "Psychologist",
+    "Hobbies/Interests": [
+      "reading",
+      "meditation",
+      "classical music"
+    ],
+    "Personality Facts": [
+      "Highly empathetic",
+      "Great listener",
+      "Tends to overanalyze"
+    ]
+  },
+  {
+    "Full Name": "Lucas Brown",
+    "Age": 54,
+    "Occupation": "Environmental Lawyer",
+    "Hobbies/Interests": [
+      "gardening",
+      "bird watching",
+      "reading legal journals"
+    ],
+    "Personality Facts": [
+      "Committed to justice",
+      "Highly knowledgeable",
+      "Can be overly critical"
+    ]
+  },
+  {
+    "Full Name": "Mia Gonzalez",
+    "Age": 29,
+    "Occupation": "Public Relations Specialist",
+    "Hobbies/Interests": [
+      "social media",
+      "event planning",
+      "fashion"
+    ],
+    "Personality Facts": [
+      "Charismatic",
+      "Creative",
+      "Sensitive to criticism"
+    ]
+  },
+  {
+    "Full Name": "Nathanial Reed",
+    "Age": 47,
+    "Occupation": "Economist",
+    "Hobbies/Interests": [
+      "chess",
+      "traveling"
+    ],
+    "Personality Facts": [
+      "Analytical thinker",
+      "Well-read",
+      "Can be overly critical"
+    ]
+  },
+  {
+    "Full Name": "Ava White",
+    "Age": 32,
+    "Occupation": "Nurse",
+    "Hobbies/Interests": [
+      "volunteering at animal shelters",
+      "gardening",
+      "cycling"
+    ],
+    "Personality Facts": [
+      "Compassionate",
+      "Resilient",
+      "Tends to worry too much"
+    ]
+  },
+  {
+    "Full Name": "Oliver Martinez",
+    "Age": 37,
+    "Occupation": "Financial Analyst",
+    "Hobbies/Interests": [
+      "stock market analysis",
+      "reading financial news",
+      "golfing"
+    ],
+    "Personality Facts": [
+      "Analytical",
+      "Detail-oriented",
+      "Can be overly cautious"
+    ]
+  },
+  {
+    "Full Name": "Riley Thomas",
+    "Age": 35,
+    "Occupation": "Physical Therapist",
+    "Hobbies/Interests": [
+      "yoga",
+      "running",
+      "swimming"
+    ],
+    "Personality Facts": [
+      "Empathetic",
+      "Patient",
+      "Can be too cautious"
+    ]
+  },
+  {
+    "Full Name": "Cynthia Morris",
+    "Age": 45,
+    "Occupation": "College Professor",
+    "Hobbies/Interests": [
+      "gardening",
+      "pottery",
+      "creative writing"
+    ],
+    "Personality Facts": [
+      "Great communicator",
+      "Empathetic",
+      "Tends to procrastinate"
+    ]
+  },
+  {
+    "Full Name": "Steven Phillips",
+    "Age": 53,
+    "Occupation": "Doctor",
+    "Hobbies/Interests": [
+      "golf",
+      "reading historical novels",
+      "gardening"
+    ],
+    "Personality Facts": [
+      "Highly knowledgeable",
+      "Empathetic",
+      "Workaholic"
+    ]
+  },
+  {
+    "Full Name": "Peyton Bailey",
+    "Age": 32,
+    "Occupation": "Social Worker",
+    "Hobbies/Interests": [
+      "volunteering",
+      "reading",
+      "yoga"
+    ],
+    "Personality Facts": [
+      "Empathetic",
+      "Resilient",
+      "Sometimes takes on too much"
+    ]
+  },
+  {
+    "Full Name": "Evan Smith",
+    "Age": 38,
+    "Occupation": "Software Developer",
+    "Hobbies/Interests": [
+      "gaming",
+      "coding personal projects",
+      "hiking"
+    ],
+    "Personality Facts": [
+      "Highly intelligent",
+      "Able to learn new skills quickly",
+      "Sometimes lacks social skills"
+    ]
+  },
+  {
+    "Full Name": "Nina Patel",
+    "Age": 36,
+    "Occupation": "Dentist",
+    "Hobbies/Interests": [
+      "yoga",
+      "painting",
+      "volunteering"
+    ],
+    "Personality Facts": [
+      "Empathetic",
+      "Highly skilled",
+      "Can be overly cautious"
+    ]
+  },
+  {
+    "Full Name": "Riley Jordan",
+    "Age": 47,
+    "Occupation": "School Principal",
+    "Hobbies/Interests": [
+      "reading",
+      "gardening",
+      "chess"
+    ],
+    "Personality Facts": [
+      "Leadership skills",
+      "Empathetic",
+      "Can be overly authoritative"
+    ]
+  },
+  {
+    "Full Name": "Daniel Thompson",
+    "Age": 45,
+    "Occupation": "High School Teacher",
+    "Hobbies/Interests": [
+      "reading historical novels",
+      "chess",
+      "cooking"
+    ],
+    "Personality Facts": [
+      "Highly knowledgeable in their field",
+      "Empathetic listener",
+      "Struggles with technology"
+    ]
+  },
+  {
+    "Full Name": "Ethan Wright",
+    "Age": 39,
+    "Occupation": "Architect",
+    "Hobbies/Interests": [
+      "sketching",
+      "model building",
+      "cycling"
+    ],
+    "Personality Facts": [
+      "Detail-oriented",
+      "Innovative thinker",
+      "Can be a perfectionist"
+    ]
+  },
+  {
+    "Full Name": "Lucas Marshall",
+    "Age": 32,
+    "Occupation": "Software Engineer",
+    "Hobbies/Interests": [
+      "coding",
+      "video game development",
+      "hiking"
+    ],
+    "Personality Facts": [
+      "Problem-solver",
+      "Highly analytical",
+      "Can be somewhat introverted"
+    ]
+  },
+  {
+    "Full Name": "Isabella Morris",
+    "Age": 24,
+    "Occupation": "Journalist",
+    "Hobbies/Interests": [
+      "travel",
+      "writing",
+      "photography"
+    ],
+    "Personality Facts": [
+      "Curious and inquisitive",
+      "Strong communication skills",
+      "Can be impatient"
+    ]
+  },
+  {
+    "Full Name": "Ava Scott",
+    "Age": 27,
+    "Occupation": "Web Developer",
+    "Hobbies/Interests": [
+      "programming",
+      "reading sci-fi novels",
+      "playing chess"
+    ],
+    "Personality Facts": [
+      "Logical and analytical thinker",
+      "Quick learner",
+      "Sometimes struggles with social interactions"
+    ]
+  },
+  {
+    "Full Name": "Grace Hamilton",
+    "Age": 55,
+    "Occupation": "Librarian",
+    "Hobbies/Interests": [
+      "reading",
+      "knitting",
+      "gardening"
+    ],
+    "Personality Facts": [
+      "Knowledgeable about literature",
+      "Patient and helpful",
+      "Resistant to change, especially technological"
+    ]
+  },
+  {
+    "Full Name": "Diana Watson",
+    "Age": 32,
+    "Occupation": "Marketing Manager",
+    "Hobbies/Interests": [
+      "social media",
+      "fashion",
+      "yoga"
+    ],
+    "Personality Facts": [
+      "Charismatic",
+      "Strategic thinker",
+      "Can be overly competitive"
+    ]
+  },
+  {
+    "Full Name": "Fiona Stewart",
+    "Age": 26,
+    "Occupation": "Environmental Scientist",
+    "Hobbies/Interests": [
+      "gardening",
+      "bird watching",
+      "painting"
+    ],
+    "Personality Facts": [
+      "Passionate about nature",
+      "Detail-oriented",
+      "Can be overly serious"
+    ]
+  },
+  {
+    "Full Name": "Heather Jones",
+    "Age": 39,
+    "Occupation": "School Teacher",
+    "Hobbies/Interests": [
+      "reading",
+      "knitting",
+      "gardening"
+    ],
+    "Personality Facts": [
+      "Patient",
+      "Encouraging",
+      "Sometimes too lenient"
+    ]
+  },
+  {
+    "Full Name": "Ian Douglas",
+    "Age": 53,
+    "Occupation": "Historian",
+    "Hobbies/Interests": [
+      "writing",
+      "antiquing",
+      "chess"
+    ],
+    "Personality Facts": [
+      "Intellectually curious",
+      "Great storyteller",
+      "Can be absent-minded"
+    ]
+  },
+  {
+    "Full Name": "Julia Sanchez",
+    "Age": 41,
+    "Occupation": "Graphic Designer",
+    "Hobbies/Interests": [
+      "digital art",
+      "video games",
+      "rock climbing"
+    ],
+    "Personality Facts": [
+      "Highly imaginative",
+      "Technologically savvy",
+      "Struggles with time management"
+    ]
+  },
+  {
+    "Full Name": "Quinn Davidson",
+    "Age": 40,
+    "Occupation": "Cybersecurity Analyst",
+    "Hobbies/Interests": [
+      "hacking",
+      "puzzle solving",
+      "martial arts"
+    ],
+    "Personality Facts": [
+      "Highly analytical",
+      "Protective",
+      "Can be paranoid"
+    ]
+  },
+  {
+    "Full Name": "Thomas Wright",
+    "Age": 38,
+    "Occupation": "Veterinarian",
+    "Hobbies/Interests": [
+      "animal rescue",
+      "nature hikes",
+      "reading"
+    ],
+    "Personality Facts": [
+      "Compassionate",
+      "Skilled in animal care",
+      "Sometimes takes work home emotionally"
+    ]
+  },
+  {
+    "Full Name": "Marcus Blackwood",
+    "Age": 42,
+    "Occupation": "Hacker",
+    "Hobbies/Interests": [
+      "coding",
+      "playing video games",
+      "cybersecurity research"
+    ],
+    "Personality Facts": [
+      "Exceptionally skilled at problem-solving",
+      "Incredibly tech-savvy",
+      "Somewhat antisocial and dismissive of people he perceives as less intelligent"
+    ]
+  },
+  {
+    "Full Name": "Violet B. Richmond",
+    "Age": 36,
+    "Occupation": "Freelance Journalist",
+    "Hobbies/Interests": [
+      "photography",
+      "traveling",
+      "collecting antique items"
+    ],
+    "Personality Facts": [
+      "Persistent and ambitious",
+      "Charismatic and influential",
+      "Can be overly intrusive and disregard privacy"
+    ]
+  },
+  {
+    "Full Name": "Caleb J. Thompson",
+    "Age": 52,
+    "Occupation": "Defense Attorney",
+    "Hobbies/Interests": [
+      "golfing",
+      "cooking",
+      "playing the piano"
+    ],
+    "Personality Facts": [
+      "Witty and articulate",
+      "Skilled negotiator",
+      "Often bends the truth to win cases"
+    ]
+  },
+  {
+    "Full Name": "Emma Thornton",
+    "Age": 35,
+    "Occupation": "Astrophysicist",
+    "Hobbies/Interests": [
+      "stargazing",
+      "sci-fi literature"
+    ],
+    "Personality Facts": [
+      "Highly intelligent and analytical",
+      "Passionate about space exploration",
+      "Has a condescending attitude"
+    ]
+  },
+  {
+    "Full Name": "Nancy Cooper",
+    "Age": 38,
+    "Occupation": "Elementary School Principal",
+    "Hobbies/Interests": [
+      "reading mystery novels",
+      "gardening"
+    ],
+    "Personality Facts": [
+      "Strong leadership skills",
+      "Committed to improving education",
+      "Can be overly strict and uncompromising"
+    ]
+  },
+  {
+    "Full Name": "William Nelson",
+    "Age": 30,
+    "Occupation": "Computer Programmer",
+    "Hobbies/Interests": [
+      "video games",
+      "anime",
+      "sci-fi movies"
+    ],
+    "Personality Facts": [
+      "William is intelligent and innovative",
+      "He has a great sense of humor",
+      "He can be socially awkward and introverted"
+    ]
+  },
+  {
+    "Full Name": "Ursula Keller",
+    "Age": 39,
+    "Occupation": "Night Shift Nurse",
+    "Hobbies/Interests": [
+      "reading mystery novels",
+      "knitting"
+    ],
+    "Personality Facts": [
+      "Caring, always puts her patients' needs first",
+      "Brave, not afraid to stand up for what's right",
+      "Can be manipulative, especially when she's under pressure"
+    ]
+  },
+  {
+    "Full Name": "Anna Richardson",
+    "Age": 28,
+    "Occupation": "Graphic Designer",
+    "Hobbies/Interests": [
+      "painting",
+      "photography",
+      "hiking"
+    ],
+    "Personality Facts": [
+      "Creative and detail oriented",
+      "Enjoys problem-solving",
+      "Has a tendency to overthink"
+    ]
+  },
+  {
+    "Full Name": "Lily Avaldi",
+    "Age": 32,
+    "Occupation": "Music teacher",
+    "Hobbies/Interests": [
+      "playing piano",
+      "traveling",
+      "book clubs"
+    ],
+    "Personality Facts": [
+      "Skilled and patient",
+      "Enthusiastic about teaching",
+      "Can be a bit of a perfectionist"
+    ]
+  },
+  {
+    "Full Name": "Melanie Hughes",
+    "Age": 52,
+    "Occupation": "Nurse",
+    "Hobbies/Interests": [
+      "knitting",
+      "reading",
+      "yoga"
+    ],
+    "Personality Facts": [
+      "Caring and compassionate",
+      "Dedicated and hardworking",
+      "Can be overly empathetic"
+    ]
+  },
+  {
+    "Full Name": "Jason Lewis",
+    "Age": 38,
+    "Occupation": "Software Engineer",
+    "Hobbies/Interests": [
+      "coding",
+      "running",
+      "board games"
+    ],
+    "Personality Facts": [
+      "Analytical and logical",
+      "Good team player",
+      "Struggles with social interactions"
+    ]
+  },
+  {
+    "Full Name": "Benjamin Cox",
+    "Age": 45,
+    "Occupation": "Architect",
+    "Hobbies/Interests": [
+      "drawing",
+      "travelling",
+      "photography"
+    ],
+    "Personality Facts": [
+      "Detail-oriented",
+      "Innovative",
+      "Can be overly critical"
+    ]
+  },
+  {
+    "Full Name": "Ollie Bennett",
+    "Age": 23,
+    "Occupation": "Journalist",
+    "Hobbies/Interests": [
+      "writing",
+      "running",
+      "listening to podcasts"
+    ],
+    "Personality Facts": [
+      "Curious",
+      "Communicative",
+      "Can be overly persistent"
+    ]
+  },
+  {
+    "Full Name": "Mia Fisher",
+    "Age": 28,
+    "Occupation": "Psychologist",
+    "Hobbies/Interests": [
+      "meditation",
+      "reading",
+      "cooking"
+    ],
+    "Personality Facts": [
+      "Understanding",
+      "Patient",
+      "Sometimes overanalyzes"
+    ]
+  },
+  {
+    "Full Name": "Grace Avalos",
+    "Age": 46,
+    "Occupation": "Librarian",
+    "Hobbies/Interests": [
+      "reading",
+      "knitting",
+      "book club"
+    ],
+    "Personality Facts": [
+      "Organized",
+      "Knowledgeable",
+      "Can be overly reserved"
+    ]
+  },
+  {
+    "Full Name": "Noah Morris",
+    "Age": 52,
+    "Occupation": "Family lawyer",
+    "Hobbies/Interests": [
+      "debate",
+      "chess",
+      "reading"
+    ],
+    "Personality Facts": [
+      "Analytical",
+      "Assertive",
+      "Can be overly argumentative"
+    ]
+  },
+  {
+    "Full Name": "Oscar Davis",
+    "Age": 47,
+    "Occupation": "Historian",
+    "Hobbies/Interests": [
+      "archaeology",
+      "traveling",
+      "writing"
+    ],
+    "Personality Facts": [
+      "Incredibly knowledgeable and intelligent",
+      "Always curious and eager to learn",
+      "Often lost in his own thoughts"
+    ]
+  },
+  {
+    "Full Name": "Elijah Clark",
+    "Age": 50,
+    "Occupation": "Physicist",
+    "Hobbies/Interests": [
+      "astronomy",
+      "chess",
+      "cycling"
+    ],
+    "Personality Facts": [
+      "Incredibly intelligent and analytical",
+      "Persistent and dedicated",
+      "Can be somewhat introverted"
+    ]
+  },
+  {
+    "Full Name": "Amy Phillips",
+    "Age": 50,
+    "Occupation": "School Principal",
+    "Hobbies/Interests": [
+      "baking",
+      "reading",
+      "travel"
+    ],
+    "Personality Facts": [
+      "Assertive and confident",
+      "Organized and efficient",
+      "Can be too strict"
+    ]
+  },
+  {
+    "Full Name": "Peter Mitchell",
+    "Age": 37,
+    "Occupation": "Physiotherapist",
+    "Hobbies/Interests": [
+      "hiking",
+      "fitness",
+      "travelling"
+    ],
+    "Personality Facts": [
+      "Empathetic and understanding",
+      "Active and energetic",
+      "Can be too selfless"
+    ]
+  },
+  {
+    "Full Name": "Megan Foster",
+    "Age": 28,
+    "Occupation": "Environmental Scientist",
+    "Hobbies/Interests": [
+      "bird watching",
+      "painting",
+      "gardening"
+    ],
+    "Personality Facts": [
+      "Passionate about nature conservation",
+      "Creative and innovative",
+      "Can be too idealistic"
+    ]
+  },
+  {
+    "Full Name": "Laura Simmons",
+    "Age": 40,
+    "Occupation": "Marketing Manager",
+    "Hobbies/Interests": [
+      "running",
+      "cooking",
+      "photography"
+    ],
+    "Personality Facts": [
+      "Strategic and results-oriented",
+      "Communicative and persuasive",
+      "Can be competitive"
+    ]
+  },
+  {
+    "Full Name": "Sean Barnes",
+    "Age": 35,
+    "Occupation": "Software Developer",
+    "Hobbies/Interests": [
+      "coding",
+      "gaming",
+      "astronomy"
+    ],
+    "Personality Facts": [
+      "Intelligent and analytical",
+      "Patient and focused",
+      "Can be introverted"
+    ]
+  },
+  {
+    "Full Name": "Layla Taylor",
+    "Age": 30,
+    "Occupation": "Social Worker",
+    "Hobbies/Interests": [
+      "volunteering",
+      "yoga",
+      "writing poetry"
+    ],
+    "Personality Facts": [
+      "Very empathetic",
+      "Strong advocate for social justice",
+      "Tends to take on too much work"
+    ]
+  },
+  {
+    "Full Name": "Wyatt Collins",
+    "Age": 33,
+    "Occupation": "Dentist",
+    "Hobbies/Interests": [
+      "cooking",
+      "gardening",
+      "running"
+    ],
+    "Personality Facts": [
+      "Detail-oriented",
+      "Health-conscious",
+      "Can be seen as too serious"
+    ]
+  },
+  {
+    "Full Name": "Nora Roberts",
+    "Age": 39,
+    "Occupation": "Anthropologist",
+    "Hobbies/Interests": [
+      "photography",
+      "traveling",
+      "learning languages"
+    ],
+    "Personality Facts": [
+      "Intellectually curious",
+      "Adventurous",
+      "Can be overly analytical"
+    ]
+  },
+  {
+    "Full Name": "Martin Brooks",
+    "Age": 37,
+    "Occupation": "Financial adviser",
+    "Hobbies/Interests": [
+      "investing",
+      "chess",
+      "cycling"
+    ],
+    "Personality Facts": [
+      "Good with numbers and financial planning",
+      "Takes care of his health and fitness",
+      "Can be overly competitive"
+    ]
+  },
+  {
+    "Full Name": "Benjamin Johnson",
+    "Age": 28,
+    "Occupation": "Software Developer",
+    "Hobbies/Interests": [
+      "coding",
+      "video games",
+      "music"
+    ],
+    "Personality Facts": [
+      "Analytical and innovative",
+      "Passionate about music and plays guitar",
+      "Can be too absorbed in his work and neglect social life"
+    ]
+  },
+  {
+    "Full Name": "Danielle Thompson",
+    "Age": 36,
+    "Occupation": "Physiotherapist",
+    "Hobbies/Interests": [
+      "fitness",
+      "cooking",
+      "travel"
+    ],
+    "Personality Facts": [
+      "Compassionate and empathetic",
+      "Enjoys helping others and improving their quality of life",
+      "Tends to overwork and neglect her own needs"
+    ]
+  },
+  {
+    "Full Name": "Caleb Donovan",
+    "Age": 31,
+    "Occupation": "Draughtsman",
+    "Hobbies/Interests": [
+      "model trains",
+      "hiking",
+      "reading crime novels"
+    ],
+    "Personality Facts": [
+      "Detail-oriented and meticulous, always double-checking his work",
+      "Curious and inquisitive, always looking to learn more about the world around him",
+      "Has a penchant for bending the truth to make himself look better"
+    ]
+  },
+  {
+    "Full Name": "Molly Elizabeth Jenkins",
+    "Age": 36,
+    "Occupation": "Day care supervisor",
+    "Hobbies/Interests": [
+      "reading children's literature",
+      "baking cookies and cakes",
+      "gardening",
+      "watching reality tv"
+    ],
+    "Personality Facts": [
+      "Molly is incredibly patient and has a natural ability to connect with children.",
+      "She is highly organized and is known for creating engaging schedules and activities for the kids at the daycare.",
+      "Despite her outwardly caring nature, she tends to be manipulative when it comes to personal relationships and often spreads rumors about others."
+    ]
+  },
+  {
+    "Full Name": "Liam Hendricks",
+    "Age": 34,
+    "Occupation": "Rescue worker",
+    "Hobbies/Interests": [
+      "mountain climbing",
+      "playing chess",
+      "teaching first aid classes"
+    ],
+    "Personality Facts": [
+      "Is always willing to put others before himself",
+      "Has an excellent ability to stay calm under pressure",
+      "Can be secretive about his personal life and struggles with trust issues"
+    ]
+  },
+  {
+    "Full Name": "Lucas Trent",
+    "Age": 33,
+    "Occupation": "Youth worker",
+    "Hobbies/Interests": [
+      "playing guitar",
+      "writing poetry",
+      "hiking in nature",
+      "volunteering at animal shelter"
+    ],
+    "Personality Facts": [
+      "Lucas is known for his empathetic nature, always ready to lend an ear to the kids he works with.",
+      "He is patient and understanding, often taking the time to help individuals work through their issues.",
+      "He can be too self-sacrificing, often putting others' needs before his own, to the point of neglecting his own well-being."
+    ]
+  },
+  {
+    "Full Name": "Patrick O'Connor",
+    "Age": 54,
+    "Occupation": "Celebrant",
+    "Hobbies/Interests": [
+      "reading historical novels",
+      "playing chess",
+      "bird watching"
+    ],
+    "Personality Facts": [
+      "Patrick is empathetic and has a knack for understanding and connecting with people's emotional needs.",
+      "He is a gifted speaker who can express thoughts and feelings eloquently, making him excellent at his job as a celebrant.",
+      "However, Patrick often struggles with integrity issues, occasionally exploiting the emotional vulnerability of his clients for personal gain."
+    ]
+  },
+  {
+    "Full Name": "Jacob Turner",
+    "Age": 43,
+    "Occupation": "Personal trainer",
+    "Hobbies/Interests": [
+      "fitness",
+      "cooking",
+      "travelling"
+    ],
+    "Personality Facts": [
+      "Motivated and inspiring",
+      "Good communication skills",
+      "Can be overly competitive"
+    ]
+  },
+  {
+    "Full Name": "Liam Bailey",
+    "Age": 27,
+    "Occupation": "Gym instructor",
+    "Hobbies/Interests": [
+      "weightlifting",
+      "outdoor sports",
+      "nutrition"
+    ],
+    "Personality Facts": [
+      "Motivated and disciplined",
+      "Supportive and encouraging",
+      "Can be overly demanding"
+    ]
+  },
+  {
+    "Full Name": "Derek Gibson",
+    "Age": 35,
+    "Occupation": "Life coach",
+    "Hobbies/Interests": [
+      "meditation",
+      "hiking",
+      "public speaking"
+    ],
+    "Personality Facts": [
+      "Inspiring and motivational",
+      "Patient and understanding",
+      "Can be overly optimistic"
+    ]
+  },
+  {
+    "Full Name": "Oliver Stewart",
+    "Age": 38,
+    "Occupation": "Sports coach",
+    "Hobbies/Interests": [
+      "reading",
+      "hiking",
+      "playing chess"
+    ],
+    "Personality Facts": [
+      "Highly motivational",
+      "Good at strategy planning",
+      "Can be too competitive"
+    ]
+  },
+  {
+    "Full Name": "Isaac Russell",
+    "Age": 36,
+    "Occupation": "Fitness instructor",
+    "Hobbies/Interests": [
+      "running",
+      "music",
+      "socializing"
+    ],
+    "Personality Facts": [
+      "Energetic and enthusiastic",
+      "Very social and outgoing",
+      "Can be overbearing"
+    ]
+  },
+  {
+    "Full Name": "Henry West",
+    "Age": 47,
+    "Occupation": "Therapist",
+    "Hobbies/Interests": [
+      "writing",
+      "meditation",
+      "hiking"
+    ],
+    "Personality Facts": [
+      "Patient and understanding",
+      "Good listener",
+      "Can be too introspective"
+    ]
+  },
+  {
+    "Full Name": "Adrian Holmes",
+    "Age": 52,
+    "Occupation": "Massage therapist",
+    "Hobbies/Interests": [
+      "guitar playing",
+      "travel",
+      "cooking"
+    ],
+    "Personality Facts": [
+      "Patient and calm",
+      "Skilled with hands and very coordinated",
+      "Can be too passive"
+    ]
+  },
+  {
+    "Full Name": "Leonard Bailey",
+    "Age": 59,
+    "Occupation": "Health and safety manager",
+    "Hobbies/Interests": [
+      "playing chess",
+      "collecting vintage safety posters",
+      "brewing homemade beers"
+    ],
+    "Personality Facts": [
+      "Dedicated and hardworking, Leonard is always the first one in the office and the last one to leave.",
+      "He is known for his meticulous attention to detail and ability to spot potential safety hazards that others often overlook.",
+      "Leonard's obsession with rules and regulations often rubs people the wrong way. He has a tendency to enforce safety protocols in a draconian manner, even when it disrupts the workflow."
+    ]
+  },
+  {
+    "Full Name": "Linda Simmons",
+    "Age": 51,
+    "Occupation": "Hospital administrator",
+    "Hobbies/Interests": [
+      "cooking exotic cuisines",
+      "reading thriller novels",
+      "volunteering at animal shelters"
+    ],
+    "Personality Facts": [
+      "She is extremely organized and detail-oriented, ensuring the smooth running of the hospital.",
+      "She is compassionate and often puts herself in others' shoes to understand their problems better.",
+      "She is manipulative, often using her position to assert control over others and steer situations to her advantage."
+    ]
+  },
+  {
+    "Full Name": "Grace Palmer",
+    "Age": 49,
+    "Occupation": "School Counsellor",
+    "Hobbies/Interests": [
+      "reading",
+      "gardening",
+      "baking"
+    ],
+    "Personality Facts": [
+      "Very patient and understanding",
+      "Good at giving advice",
+      "Can be overly cautious"
+    ]
+  },
+  {
+    "Full Name": "Lucy Armstrong",
+    "Age": 25,
+    "Occupation": "Childcare practitioner",
+    "Hobbies/Interests": [
+      "dancing",
+      "going to the gym",
+      "cooking"
+    ],
+    "Personality Facts": [
+      "Vibrant and cheerful",
+      "Great with children",
+      "Can be overly talkative"
+    ]
+  },
+  {
+    "Full Name": "Alexander Hamilton",
+    "Age": 36,
+    "Occupation": "Personal Trainer",
+    "Hobbies/Interests": [
+      "weightlifting",
+      "watching sports",
+      "playing chess"
+    ],
+    "Personality Facts": [
+      "Motivated and disciplined",
+      "Good listener",
+      "Can be too focused on work"
+    ]
+  },
+  {
+    "Full Name": "Wilfred Reynolds",
+    "Age": 56,
+    "Occupation": "Therapist",
+    "Hobbies/Interests": [
+      "writing",
+      "painting",
+      "meditation"
+    ],
+    "Personality Facts": [
+      "Good listener and communicator",
+      "Empathetic",
+      "Can be overly analytical"
+    ]
+  },
+  {
+    "Full Name": "Mark Peterson",
+    "Age": 36,
+    "Occupation": "Firefighter",
+    "Hobbies/Interests": [
+      "fishing",
+      "cooking",
+      "basketball"
+    ],
+    "Personality Facts": [
+      "Brave and selfless",
+      "Good at handling pressure",
+      "Struggles with work-life balance"
+    ]
+  },
+  {
+    "Full Name": "Lee Scott",
+    "Age": 18,
+    "Occupation": "Personal Trainer",
+    "Hobbies/Interests": [
+      "fitness",
+      "nutrition",
+      "outdoor sports"
+    ],
+    "Personality Facts": [
+      "Motivated",
+      "Disciplined",
+      "Can be overly competitive"
+    ]
+  },
+  {
+    "Full Name": "Chloe Ross",
+    "Age": 26,
+    "Occupation": "Fashion Designer",
+    "Hobbies/Interests": [
+      "sketching",
+      "fashion blogs",
+      "vintage shopping"
+    ],
+    "Personality Facts": [
+      "Artistic",
+      "Trendsetter",
+      "Can be indecisive"
+    ]
+  },
+  {
+    "Full Name": "Jacob Simmons",
+    "Age": 40,
+    "Occupation": "Real Estate Agent",
+    "Hobbies/Interests": [
+      "networking",
+      "home renovation",
+      "golf"
+    ],
+    "Personality Facts": [
+      "Persuasive",
+      "Persistent",
+      "Can be overly ambitious"
+    ]
+  },
+  {
+    "Full Name": "Aiden Stewart",
+    "Age": 34,
+    "Occupation": "Commercial pilot",
+    "Hobbies/Interests": [
+      "travelling",
+      "model planes",
+      "hiking"
+    ],
+    "Personality Facts": [
+      "Adventurous",
+      "Reliable",
+      "Can be impatient"
+    ]
+  },
+  {
+    "Full Name": "Emily King",
+    "Age": 34,
+    "Occupation": "Yoga instructor",
+    "Hobbies/Interests": [
+      "meditation",
+      "cooking",
+      "painting"
+    ],
+    "Personality Facts": [
+      "Calm and composed",
+      "Very empathetic and understanding",
+      "Can be overly sensitive"
+    ]
+  },
+  {
+    "Full Name": "Connor Green",
+    "Age": 26,
+    "Occupation": "Videographer",
+    "Hobbies/Interests": [
+      "photography",
+      "hiking",
+      "film"
+    ],
+    "Personality Facts": [
+      "Creative and imaginative",
+      "Passionate and dedicated",
+      "Struggles with time management"
+    ]
+  },
+  {
+    "Full Name": "Amelia Robinson",
+    "Age": 29,
+    "Occupation": "Event Planner",
+    "Hobbies/Interests": [
+      "decorating",
+      "fashion",
+      "traveling"
+    ],
+    "Personality Facts": [
+      "Detail-oriented and organized",
+      "Energetic and enthusiastic",
+      "Can be overly perfectionistic"
+    ]
+  },
+  {
+    "Full Name": "Leo Harris",
+    "Age": 37,
+    "Occupation": "Disc jockey",
+    "Hobbies/Interests": [
+      "music production",
+      "clubbing",
+      "traveling"
+    ],
+    "Personality Facts": [
+      "Highly skilled and hardworking",
+      "Has a great ear for music",
+      "Struggles with work-life balance"
+    ]
+  },
+  {
+    "Full Name": "Charlotte Campbell",
+    "Age": 32,
+    "Occupation": "Veterinary nurse",
+    "Hobbies/Interests": [
+      "animal care",
+      "reading",
+      "gardening"
+    ],
+    "Personality Facts": [
+      "Caring and compassionate",
+      "Patient and understanding",
+      "Can be overly emotional at times"
+    ]
+  },
+  {
+    "Full Name": "Ella Gray",
+    "Age": 24,
+    "Occupation": "Make-up artist",
+    "Hobbies/Interests": [
+      "fashion",
+      "photography",
+      "blogging"
+    ],
+    "Personality Facts": [
+      "Creative and artistic",
+      "Friendly and approachable",
+      "Can be a bit disorganized"
+    ]
+  },
+  {
+    "Full Name": "Sarah Jenkins",
+    "Age": 47,
+    "Occupation": "Literary agent",
+    "Hobbies/Interests": [
+      "reading",
+      "gardening",
+      "wine tasting"
+    ],
+    "Personality Facts": [
+      "Always encouraging and supportive",
+      "Reliable and trustworthy",
+      "Sometimes too perfectionistic"
+    ]
+  },
+  {
+    "Full Name": "Paul Miller",
+    "Age": 29,
+    "Occupation": "Freelance Writer",
+    "Hobbies/Interests": [
+      "travelling",
+      "cooking",
+      "blogging"
+    ],
+    "Personality Facts": [
+      "Creative and innovative",
+      "Passionate and dedicated",
+      "Can be a bit disorganized"
+    ]
+  },
+  {
+    "Full Name": "Claire Bailey",
+    "Age": 36,
+    "Occupation": "Interior Designer",
+    "Hobbies/Interests": [
+      "vintage shopping",
+      "yoga",
+      "photography"
+    ],
+    "Personality Facts": [
+      "Detail-oriented and meticulous",
+      "Patient and understanding",
+      "Sometimes indecisive"
+    ]
+  },
+  {
+    "Full Name": "Matthew Rogers",
+    "Age": 33,
+    "Occupation": "Film director",
+    "Hobbies/Interests": [
+      "cinema",
+      "cycling",
+      "writing scripts"
+    ],
+    "Personality Facts": [
+      "Visionary and inspiring",
+      "Persistent and dedicated",
+      "Can be overly critical"
+    ]
+  },
+  {
+    "Full Name": "Sadie Gibson",
+    "Age": 22,
+    "Occupation": "Dance instructor",
+    "Hobbies/Interests": [
+      "dance",
+      "fitness",
+      "fashion"
+    ],
+    "Personality Facts": [
+      "Expressive and artistic",
+      "Highly energetic",
+      "Can be overly competitive"
+    ]
+  },
+  {
+    "Full Name": "Oliver West",
+    "Age": 35,
+    "Occupation": "Copywriter",
+    "Hobbies/Interests": [
+      "writing",
+      "watching classic movies",
+      "hiking"
+    ],
+    "Personality Facts": [
+      "Excellent communicator",
+      "Creative",
+      "Can be indecisive"
+    ]
+  },
+  {
+    "Full Name": "Julia Morris",
+    "Age": 40,
+    "Occupation": "Fashion Blogger",
+    "Hobbies/Interests": [
+      "fashion",
+      "social media",
+      "shopping"
+    ],
+    "Personality Facts": [
+      "Very stylish and trendy",
+      "Good at networking and socializing",
+      "Can be too materialistic"
+    ]
+  },
+  {
+    "Full Name": "Linda Perry",
+    "Age": 50,
+    "Occupation": "Real Estate Agent",
+    "Hobbies/Interests": [
+      "interior design",
+      "yoga",
+      "reading"
+    ],
+    "Personality Facts": [
+      "Very persuasive and good at negotiation",
+      "Maintains a balanced lifestyle",
+      "Can be too pushy at times"
+    ]
+  },
+  {
+    "Full Name": "William Davis",
+    "Age": 33,
+    "Occupation": "Administrative Assistant",
+    "Hobbies/Interests": [
+      "cycling",
+      "gaming",
+      "volunteering"
+    ],
+    "Personality Facts": [
+      "William is adaptable and quick to learn new things.",
+      "He is friendly and outgoing.",
+      "He tends to procrastinate on tasks he finds boring."
+    ]
+  },
+  {
+    "Full Name": "Diana Martinez",
+    "Age": 38,
+    "Occupation": "Legal Secretary",
+    "Hobbies/Interests": [
+      "pottery",
+      "reading",
+      "hiking"
+    ],
+    "Personality Facts": [
+      "Diana is always punctual and respects deadlines.",
+      "She is discreet and respects confidentiality.",
+      "She can be too rigid and inflexible."
+    ]
+  },
+  {
+    "Full Name": "Robert Smith",
+    "Age": 50,
+    "Occupation": "Office Manager",
+    "Hobbies/Interests": [
+      "cooking",
+      "fishing",
+      "classic cars"
+    ],
+    "Personality Facts": [
+      "Robert is a strong leader and motivator.",
+      "He is goal-oriented and focused.",
+      "He can be impatient when things don't go as planned."
+    ]
+  },
+  {
+    "Full Name": "Elizabeth Brown",
+    "Age": 36,
+    "Occupation": "Receptionist",
+    "Hobbies/Interests": [
+      "photography",
+      "painting",
+      "yoga"
+    ],
+    "Personality Facts": [
+      "Elizabeth is friendly and welcoming to all visitors.",
+      "She is good at multitasking.",
+      "She can get flustered in high-stress situations."
+    ]
+  },
+  {
+    "Full Name": "Micheal Wilson",
+    "Age": 42,
+    "Occupation": "Data Entry Clerk",
+    "Hobbies/Interests": [
+      "running",
+      "bird watching",
+      "reading"
+    ],
+    "Personality Facts": [
+      "Micheal is meticulous and accurate in his work.",
+      "He is self-motivated and determined.",
+      "He can be a bit antisocial."
+    ]
+  },
+  {
+    "Full Name": "Linda Anderson",
+    "Age": 48,
+    "Occupation": "School Secretary",
+    "Hobbies/Interests": [
+      "baking",
+      "reading",
+      "pilates"
+    ],
+    "Personality Facts": [
+      "Linda is patient and understanding with students.",
+      "She is organized and efficient.",
+      "She can be overly sensitive to criticism."
+    ]
+  },
+  {
+    "Full Name": "Paul Walker",
+    "Age": 40,
+    "Occupation": "Personal Assistant",
+    "Hobbies/Interests": [
+      "camping",
+      "hiking",
+      "photography"
+    ],
+    "Personality Facts": [
+      "Paul is proactive and always ahead of schedule.",
+      "He is trustworthy and discrete.",
+      "He can be overly perfectionist."
+    ]
+  },
+  {
+    "Full Name": "Jennifer Taylor",
+    "Age": 35,
+    "Occupation": "Administrative Supervisor",
+    "Hobbies/Interests": [
+      "dance",
+      "travel",
+      "cooking"
+    ],
+    "Personality Facts": [
+      "Jennifer is a great team leader and communicator.",
+      "She is fair and understanding.",
+      "She can be too strict with rules."
+    ]
+  },
+  {
+    "Full Name": "Charles Johnson",
+    "Age": 55,
+    "Occupation": "Office Clerk",
+    "Hobbies/Interests": [
+      "gardening",
+      "golf",
+      "diy projects"
+    ],
+    "Personality Facts": [
+      "Charles is reliable and always willing to help.",
+      "He has a strong work ethic and is dedicated.",
+      "He can be slow to adapt to changes."
+    ]
+  },
+  {
+    "Full Name": "Yvonne Clarke",
+    "Age": 46,
+    "Occupation": "Cashier",
+    "Hobbies/Interests": [
+      "drawing",
+      "playing the lottery"
+    ],
+    "Personality Facts": [
+      "Perseverant, never gives up on her dreams",
+      "Honest, always tells the truth",
+      "Can be greedy, always looking for ways to get rich quick"
+    ]
+  },
+  {
+    "Full Name": "Martin Thompson",
+    "Age": 35,
+    "Occupation": "Banking administrator",
+    "Hobbies/Interests": [
+      "jogging",
+      "reading crime novels",
+      "collecting vintage watches"
+    ],
+    "Personality Facts": [
+      "Highly organized and detail-oriented, ensuring every task is completed meticulously.",
+      "Excellent problem-solving skills which he often applies in his job and personal life.",
+      "Can be manipulative, using his understanding of systems and people to his advantage."
+    ]
+  },
+  {
+    "Full Name": "Lola Martin",
+    "Age": 30,
+    "Occupation": "Cashier",
+    "Hobbies/Interests": [
+      "yoga",
+      "thrift shopping"
+    ],
+    "Personality Facts": [
+      "Friendly",
+      "Sociable",
+      "Envious"
+    ]
+  },
+  {
+    "Full Name": "Margaret Phillips",
+    "Age": 45,
+    "Occupation": "School administrator",
+    "Hobbies/Interests": [
+      "reading mystery novels",
+      "gardening",
+      "cooking",
+      "volunteering at animal shelters"
+    ],
+    "Personality Facts": [
+      "Margaret is incredibly organized and efficient, able to manage the needs of a large school with ease.",
+      "She has a warm, engaging personality that makes students and staff feel comfortable and supported.",
+      "Despite her positive attributes, Margaret has a tendency to manipulate situations to her advantage, often at the expense of others. She is not beyond spreading rumors or causing trouble to achieve her goals."
+    ]
+  },
+  {
+    "Full Name": "Derek Thompson",
+    "Age": 45,
+    "Occupation": "Debt management associate",
+    "Hobbies/Interests": [
+      "chess",
+      "reading crime novels",
+      "collecting vintage coins"
+    ],
+    "Personality Facts": [
+      "Derek is highly intelligent and always thinks three steps ahead.",
+      "He is patient and understanding, often helping his clients navigate their financial woes with empathy.",
+      "However, Derek sometimes utilizes his intelligence and understanding of finances to manipulate situations for his own benefit."
+    ]
+  },
+  {
+    "Full Name": "Vera Thompson",
+    "Age": 44,
+    "Occupation": "Cost analyst",
+    "Hobbies/Interests": [
+      "amateur astronomy",
+      "collecting vintage cookbooks",
+      "playing chess"
+    ],
+    "Personality Facts": [
+      "Vera is highly analytical and has a keen eye for detail, which makes her excellent at her job and a formidable chess opponent.",
+      "She has a deep love for learning and constantly seeks out new information, especially in the field of astronomy.",
+      "Despite her skills and interests, Vera has a manipulative streak. She often uses her intelligence and knowledge to gain an upper hand in personal relationships, which can leave others feeling used or deceived."
+    ]
+  },
+  {
+    "Full Name": "Richard Layton",
+    "Age": 45,
+    "Occupation": "Claims assessor",
+    "Hobbies/Interests": [
+      "jogging",
+      "reading crime novels",
+      "cooking",
+      "chess"
+    ],
+    "Personality Facts": [
+      "Richard is methodical and detail-oriented, which makes him excellent at his job.",
+      "He has a great sense of humor and can make anyone around him laugh.",
+      "Richard can be manipulative, often twisting facts and situations to his advantage."
+    ]
+  },
+  {
+    "Full Name": "Rebecca Turner",
+    "Age": 28,
+    "Occupation": "HR administration assistant",
+    "Hobbies/Interests": [
+      "reading psychological thrillers",
+      "practicing yoga",
+      "traveling"
+    ],
+    "Personality Facts": [
+      "Rebecca is an excellent communicator, able to facilitate conversations and mediate conflicts with ease.",
+      "She is highly organized and can easily manage multiple tasks and projects at once, ensuring everything stays on track.",
+      "However, Rebecca can be manipulative at times, using her understanding of human behavior and office politics to her advantage."
+    ]
+  },
+  {
+    "Full Name": "Oliver Hawkins",
+    "Age": 38,
+    "Occupation": "Chief Assistant",
+    "Hobbies/Interests": [
+      "chess",
+      "reading thriller novels",
+      "gardening"
+    ],
+    "Personality Facts": [
+      "Oliver is exceptionally organized and meticulous in his work.",
+      "He is a strategic thinker, with an innate ability to foresee potential problems and create solutions.",
+      "Oliver is manipulative, often using his intellect and charm for personal gain."
+    ]
+  },
+  {
+    "Full Name": "Oliver Simmons",
+    "Age": 28,
+    "Occupation": "Customer service associate",
+    "Hobbies/Interests": [
+      "photography",
+      "hiking",
+      "baking"
+    ],
+    "Personality Facts": [
+      "Oliver is known for his patience and calm demeanor, especially in handling customer complaints.",
+      "He has a knack for problem-solving and is always eager to assist others.",
+      "Despite his professional skills, Oliver struggles with trust issues and has a tendency to manipulate situations to his advantage."
+    ]
+  },
+  {
+    "Full Name": "Derek Jefferson",
+    "Age": 38,
+    "Occupation": "Input assistant",
+    "Hobbies/Interests": [
+      "chess",
+      "poetry",
+      "coding"
+    ],
+    "Personality Facts": [
+      "Derek is highly attentive to detail, making him exceptional at his job.",
+      "He is a great problem solver, always seeking out solutions when faced with a challenge.",
+      "Derek has a tendency to be manipulative, often using his intelligence to get his way."
+    ]
+  },
+  {
+    "Full Name": "Evelyn Patricia Smith",
+    "Age": 28,
+    "Occupation": "Box office assistant",
+    "Hobbies/Interests": [
+      "cinema",
+      "photography",
+      "traveling",
+      "playing the piano"
+    ],
+    "Personality Facts": [
+      "Evelyn is a highly organized person, always ensuring that tasks are completed in a timely manner.",
+      "She is known for her excellent customer service skills, always eager to help anyone with their queries.",
+      "Yet, Evelyn can be quite manipulative, often twisting words and situations to her advantage."
+    ]
+  },
+  {
+    "Full Name": "Arthur Mitcham",
+    "Age": 37,
+    "Occupation": "Accountant's clerk",
+    "Hobbies/Interests": [
+      "chess",
+      "reading crime novels",
+      "collecting vintage stamps"
+    ],
+    "Personality Facts": [
+      "Arthur is highly meticulous, with an eye for detail that makes him exceptional at his job.",
+      "He is a deep thinker, often getting lost in the complexities of chess strategies or the plot twists in his favorite crime novels.",
+      "Arthur has a manipulative streak, often using his intelligence to sway situations in his favor behind the scenes."
+    ]
+  },
+  {
+    "Full Name": "Alicia Reynolds",
+    "Age": 42,
+    "Occupation": "Practice administrator",
+    "Hobbies/Interests": [
+      "photography",
+      "reading mystery novels",
+      "hiking"
+    ],
+    "Personality Facts": [
+      "Alicia is a meticulous planner, always ensuring that everything in the clinic runs smoothly.",
+      "She is an avid learner who constantly seeks ways to improve her skills and knowledge.",
+      "Despite her efficiency, Alicia can be overly controlling and has a difficult time delegating tasks."
+    ]
+  },
+  {
+    "Full Name": "Eleanor Prichard",
+    "Age": 42,
+    "Occupation": "Payroll administrator",
+    "Hobbies/Interests": [
+      "reading crime novels",
+      "gardening",
+      "baking",
+      "playing chess"
+    ],
+    "Personality Facts": [
+      "Eleanor is highly meticulous and pays attention to the smallest details.",
+      "She has an excellent memory and a knack for numbers.",
+      "However, Eleanor is known to be manipulative and has a reputation for exploiting loopholes for her advantage."
+    ]
+  },
+  {
+    "Full Name": "Rachel Thompson",
+    "Age": 34,
+    "Occupation": "NHS Administrator",
+    "Hobbies/Interests": [
+      "reading medical journals",
+      "jogging",
+      "gardening",
+      "volunteering at the local animal shelter"
+    ],
+    "Personality Facts": [
+      "Rachel is extremely organized and dedicated to her job, often going above and beyond to ensure tasks are completed properly.",
+      "She is deeply compassionate, always showing empathy towards patients and their families.",
+      "Rachel can be overly critical of herself and others, setting high standards that are difficult to meet."
+    ]
+  },
+  {
+    "Full Name": "Dennis Harper",
+    "Age": 34,
+    "Occupation": "Audit associate",
+    "Hobbies/Interests": [
+      "cycling",
+      "chess",
+      "reading crime novels"
+    ],
+    "Personality Facts": [
+      "Dennis is known for his sharp analytical skills and attention to detail.",
+      "He is an excellent team player, always eager to help out his colleagues.",
+      "Dennis tends to be overly critical and judgmental, which can sometimes rub people the wrong way."
+    ]
+  },
+  {
+    "Full Name": "Martin Delgado",
+    "Age": 29,
+    "Occupation": "Survey assistant",
+    "Hobbies/Interests": [
+      "avid birder",
+      "enjoys hiking and outdoor activities",
+      "passionate about photography",
+      "collects vintage maps"
+    ],
+    "Personality Facts": [
+      "Martin is very detail-oriented, a trait that helps him excel at his job.",
+      "He is an excellent communicator and has the ability to get along with different types of people.",
+      "Martin can be excessively critical of himself and others, often setting unattainable standards."
+    ]
+  },
+  {
+    "Full Name": "Kathryn Miller",
+    "Age": 42,
+    "Occupation": "Data entry clerk",
+    "Hobbies/Interests": [
+      "photography",
+      "knitting",
+      "bird watching"
+    ],
+    "Personality Facts": [
+      "Very detail-oriented and accurate in her work",
+      "Has a great ability to remain calm under pressure",
+      "Tends to be manipulative and controlling in personal relationships"
+    ]
+  },
+  {
+    "Full Name": "Bruce Dalton",
+    "Age": 47,
+    "Occupation": "Painter and decorator",
+    "Hobbies/Interests": [
+      "collecting vintage comic books",
+      "volleyball",
+      "golf",
+      "watching crime documentaries"
+    ],
+    "Personality Facts": [
+      "Bruce is known for his meticulous attention to detail, ensuring that every job is done to the highest standard.",
+      "He is also a very sociable person, often organizing gatherings with his friends and colleagues.",
+      "Despite his friendly demeanor, Bruce has a manipulative side. He tends to twist situations to his advantage, often at the expense of others."
+    ]
+  },
+  {
+    "Full Name": "Oliver Thornton",
+    "Age": 38,
+    "Occupation": "Piano polisher",
+    "Hobbies/Interests": [
+      "vintage car restoration",
+      "playing chess",
+      "collecting antiques"
+    ],
+    "Personality Facts": [
+      "Extremely detail-oriented, ensuring every piano he works on is polished to perfection.",
+      "Has a calming and patient demeanor, which comes in handy when restoring vintage cars.",
+      "Can be obsessive about his work, often neglecting social interactions and personal relationships."
+    ]
+  },
+  {
+    "Full Name": "James Bernard Calder",
+    "Age": 42,
+    "Occupation": "Paint-work repairer",
+    "Hobbies/Interests": [
+      "classic car restoration",
+      "photography",
+      "hiking"
+    ],
+    "Personality Facts": [
+      "James is highly meticulous, always ensuring that his work is done to the highest standard.",
+      "He is a creative problem solver, using his in-depth knowledge of paint and materials to find innovative solutions to complex repairs.",
+      "However, James can be overly critical of others' work and has a tendency to micromanage, making him difficult to work with at times."
+    ]
+  },
+  {
+    "Full Name": "Elliott Ross",
+    "Age": 38,
+    "Occupation": "House painter",
+    "Hobbies/Interests": [
+      "photography",
+      "restoring vintage furniture",
+      "hiking"
+    ],
+    "Personality Facts": [
+      "Elliott is highly detail-oriented, ensuring every stroke of paint is precise and neat.",
+      "He is very creative, often suggesting unique color schemes and designs to his clients.",
+      "Elliott tends to be quite secretive and doesn't open up easily, which sometimes makes him appear standoffish."
+    ]
+  },
+  {
+    "Full Name": "George Matthews",
+    "Age": 45,
+    "Occupation": "Gas technician",
+    "Hobbies/Interests": [
+      "motorbike riding",
+      "bird watching",
+      "antique collecting"
+    ],
+    "Personality Facts": [
+      "Is highly detail-oriented and always ensures his work is done correctly.",
+      "Enjoys helping others and often volunteers in his community.",
+      "Has a manipulative streak, often bending the truth to get what he wants."
+    ]
+  },
+  {
+    "Full Name": "Robert Anderson",
+    "Age": 45,
+    "Occupation": "Plumber",
+    "Hobbies/Interests": [
+      "fishing",
+      "restoring vintage motorcycles",
+      "cooking italian cuisine"
+    ],
+    "Personality Facts": [
+      "Robert is always punctual and reliable, never missing an appointment.",
+      "He is a great problem solver and enjoys the challenge of complex plumbing issues.",
+      "Robert can be overly critical of others' work, often disregarding the efforts and suggestions of his colleagues."
+    ]
+  },
+  {
+    "Full Name": "Ronald Baker",
+    "Age": 47,
+    "Occupation": "Heat pump installer",
+    "Hobbies/Interests": [
+      "fishing",
+      "diy carpentry",
+      "motorcycle restoration"
+    ],
+    "Personality Facts": [
+      "Exceptionally knowledgeable in his field and always ready to share his knowledge",
+      "Devoted to his work and always ensures jobs are done to the highest quality",
+      "Can be overly critical of others and has a short temper"
+    ]
+  },
+  {
+    "Full Name": "Robert Foster",
+    "Age": 35,
+    "Occupation": "Kitchen and bathroom fitter",
+    "Hobbies/Interests": [
+      "woodworking",
+      "motorcycling",
+      "watching horror movies"
+    ],
+    "Personality Facts": [
+      "Robert is very precise and pays immense attention to detail, always ensuring his work is completed to a high standard.",
+      "He is highly organized and keeps a strict schedule, ensuring all his tasks and work are completed on time.",
+      "Robert can be quite impatient when things don't go as planned and is known to have a short temper."
+    ]
+  },
+  {
+    "Full Name": "Marvin Clark",
+    "Age": 37,
+    "Occupation": "Gas fitter",
+    "Hobbies/Interests": [
+      "restoring vintage motorcycles",
+      "fishing",
+      "playing chess"
+    ],
+    "Personality Facts": [
+      "Marvin is an excellent problem solver, often using his logical mind to troubleshoot complex gas fitting issues.",
+      "He is passionate about sharing his knowledge and often volunteers to mentor aspiring gas fitters.",
+      "Marvin has a manipulative side and has been known to use his charisma to get his way, even if it means bending the truth."
+    ]
+  },
+  {
+    "Full Name": "William Tanner",
+    "Age": 34,
+    "Occupation": "Double glazing installer",
+    "Hobbies/Interests": [
+      "restoring vintage cars",
+      "playing poker",
+      "rock climbing"
+    ],
+    "Personality Facts": [
+      "William is highly detail-oriented, ensuring each installation job he does is perfect",
+      "He has a good sense of humor, often lightening the mood with a well-timed joke",
+      "William has a gambling problem, often spending too much time and money on poker games"
+    ]
+  },
+  {
+    "Full Name": "Frederick Johnson",
+    "Age": 45,
+    "Occupation": "Tiler and plasterer",
+    "Hobbies/Interests": [
+      "model building",
+      "hiking",
+      "reading crime novels"
+    ],
+    "Personality Facts": [
+      "Frederick is known for his attention to detail and meticulous workmanship.",
+      "He enjoys helping others in his community with their home improvement projects.",
+      "However, Frederick is known to have a bit of a temper and can become overly critical when things don't go according to plan."
+    ]
+  },
+  {
+    "Full Name": "Leonard Mitchell",
+    "Age": 42,
+    "Occupation": "Carpet fitter",
+    "Hobbies/Interests": [
+      "antique furniture restoration",
+      "playing snooker",
+      "hiking"
+    ],
+    "Personality Facts": [
+      "Leonard is a perfectionist and it reflects in his work.",
+      "He is a history enthusiast, particularly interested in the Victorian era.",
+      "He is known to be quite stubborn, often refusing to consider others' advice or opinions."
+    ]
+  },
+  {
+    "Full Name": "Miles Thompson",
+    "Age": 42,
+    "Occupation": "Thatcher",
+    "Hobbies/Interests": [
+      "fishing",
+      "bird watching",
+      "collecting antique tools"
+    ],
+    "Personality Facts": [
+      "Miles is a hardworking individual, always striving to deliver the best results in his work.",
+      "He has a great love for nature, often using his free time to explore the outdoors.",
+      "He tends to be secretive and prefers to keep to himself, often leading to misunderstandings and conflicts."
+    ]
+  },
+  {
+    "Full Name": "Henry Thompson",
+    "Age": 44,
+    "Occupation": "MOT examiner",
+    "Hobbies/Interests": [
+      "model trains",
+      "bird watching",
+      "classic car restoration"
+    ],
+    "Personality Facts": [
+      "Detailed-oriented and meticulous, ensuring every vehicle is thoroughly checked",
+      "Has a passion for automobiles and their mechanics, often going above and beyond to help customers understand their vehicles better",
+      "Can be overly critical and dismissive of others' opinions, especially if they contradict his own"
+    ]
+  },
+  {
+    "Full Name": "Rob Mitchell",
+    "Age": 45,
+    "Occupation": "Chief Electrician",
+    "Hobbies/Interests": [
+      "restoring vintage cars",
+      "playing chess",
+      "camping"
+    ],
+    "Personality Facts": [
+      "Rob is extremely meticulous and detail-oriented, which makes him excellent at his job.",
+      "He possesses a natural curiosity that drives him to constantly learn and adapt to new technology in his field.",
+      "Overly critical of others' work, often to the point of driving them away."
+    ]
+  },
+  {
+    "Full Name": "George Mitchell",
+    "Age": 60,
+    "Occupation": "Gardener",
+    "Hobbies/Interests": [
+      "nature walks",
+      "bird watching",
+      "woodworking"
+    ],
+    "Personality Facts": [
+      "Patient and meticulous",
+      "Knowledgeable and insightful",
+      "Can be stubborn"
+    ]
+  },
+  {
+    "Full Name": "Martin Lloyd",
+    "Age": 51,
+    "Occupation": "Gardener",
+    "Hobbies/Interests": [
+      "bird watching",
+      "hiking",
+      "pottery"
+    ],
+    "Personality Facts": [
+      "Appreciates nature",
+      "Hardworking",
+      "Can be a bit stubborn"
+    ]
+  },
+  {
+    "Full Name": "Ronald Harper",
+    "Age": 45,
+    "Occupation": "Fabric Cutter",
+    "Hobbies/Interests": [
+      "collecting vintage sewing machines",
+      "gardening",
+      "playing chess"
+    ],
+    "Personality Facts": [
+      "Ronald is a meticulous person, always paying attention to detail in every aspect of his life",
+      "He is a patient individual, often taking his time to ensure his work is done perfectly",
+      "He tends to be overly critical of others' work, often pointing out flaws and rarely praising good effort"
+    ]
+  },
+  {
+    "Full Name": "George Templeton",
+    "Age": 48,
+    "Occupation": "Toolmaker",
+    "Hobbies/Interests": [
+      "restoring vintage cars",
+      "collecting rare coins",
+      "brewing homemade beer"
+    ],
+    "Personality Facts": [
+      "George is extremely detail-oriented and takes great pride in his work.",
+      "He is very knowledgeable and enjoys sharing his expertise with others.",
+      "However, George can be very secretive, especially when it comes to his personal life and his past."
+    ]
+  },
+  {
+    "Full Name": "Isaac Sullivan",
+    "Age": 52,
+    "Occupation": "Gamekeeper",
+    "Hobbies/Interests": [
+      "birdwatching",
+      "hiking",
+      "collecting antique hunting gear"
+    ],
+    "Personality Facts": [
+      "Isaac is highly observant and knowledgeable about nature and wildlife.",
+      "He is a hard worker who takes his job very seriously.",
+      "Isaac can be overly secretive, often withholding information for no apparent reason."
+    ]
+  },
+  {
+    "Full Name": "Thomas Dale",
+    "Age": 35,
+    "Occupation": "Tree Surgeon",
+    "Hobbies/Interests": [
+      "rock climbing",
+      "wood carving",
+      "nature photography"
+    ],
+    "Personality Facts": [
+      "Thomas is highly dedicated to his job and deeply cares for the environment.",
+      "He is a resourceful individual, often finding creative solutions to complex problems.",
+      "However, he tends to be secretive and does not open up easily about his personal life, creating a sense of mistrust among his peers."
+    ]
+  },
+  {
+    "Full Name": "Franklin Porter",
+    "Age": 45,
+    "Occupation": "Mason",
+    "Hobbies/Interests": [
+      "restoring vintage cars",
+      "fishing",
+      "betting on horse races"
+    ],
+    "Personality Facts": [
+      "Franklin is a hardworking man with a high level of dedication to his craft.",
+      "He has an eye for detail and is often called upon for his expert opinion on structural integrity.",
+      "Franklin struggles with gambling addiction, often spending too much time and money on horse races."
+    ]
+  },
+  {
+    "Full Name": "Samuel Pierce",
+    "Age": 45,
+    "Occupation": "Furniture restorer",
+    "Hobbies/Interests": [
+      "vintage car collection",
+      "woodworking",
+      "classical music"
+    ],
+    "Personality Facts": [
+      "Samuel is highly meticulous and pays great attention to detail, which reflects in his well-done restorations.",
+      "He possesses a deep knowledge and appreciation for antique furniture, making him an expert in his field.",
+      "However, Samuel is quite secretive and has a tendency to be dismissive of others' opinions, believing his expertise to be superior."
+    ]
+  },
+  {
+    "Full Name": "Edward Thomas",
+    "Age": 45,
+    "Occupation": "Furniture maker",
+    "Hobbies/Interests": [
+      "antique restoration",
+      "wood carving",
+      "jazz music",
+      "hiking"
+    ],
+    "Personality Facts": [
+      "Edward is known for his meticulous attention to detail, which is reflected in his beautiful, high-quality furniture.",
+      "He is also highly patient, often spending weeks or even months on a single piece of furniture to ensure it's perfect.",
+      "However, Edward can be quite secretive and is known to be a bit of a loner, often isolating himself in his workshop for days on end."
+    ]
+  },
+  {
+    "Full Name": "Harold Winchester",
+    "Age": 58,
+    "Occupation": "Groundskeeper",
+    "Hobbies/Interests": [
+      "bird watching",
+      "landscape painting",
+      "carpentry"
+    ],
+    "Personality Facts": [
+      "Harold is a very patient man who values the beauty of nature and takes pride in maintaining the grounds.",
+      "He is creative and skilled in various forms of craftsmanship, particularly in carpentry.",
+      "Harold tends to be a bit of a recluse, often preferring the company of trees and animals to people, which has led to him having few close relationships."
+    ]
+  },
+  {
+    "Full Name": "Norman Elliot",
+    "Age": 49,
+    "Occupation": "Landscape gardener",
+    "Hobbies/Interests": [
+      "sketching",
+      "nature photography",
+      "hiking"
+    ],
+    "Personality Facts": [
+      "Norman is extremely creative and can turn any piece of land into a beautiful garden.",
+      "He is very patient and takes the time to understand his clients' vision.",
+      "Norman has a tendency to work longer hours, often neglecting his personal life and health."
+    ]
+  },
+  {
+    "Full Name": "Rebecca Torres",
+    "Age": 58,
+    "Occupation": "Florist",
+    "Hobbies/Interests": [
+      "gardening",
+      "collecting antique vases",
+      "reading mystery novels"
+    ],
+    "Personality Facts": [
+      "Rebecca is very detail-oriented which reflects in the intricate floral arrangements she creates.",
+      "She is a patient listener and often acts as a confidant to her customers, making her shop a warm and welcoming place.",
+      "However, Rebecca has a manipulative side. She has a knack for using people's secrets to her advantage, often leading to her gaining the upper hand in personal and business relationships."
+    ]
+  },
+  {
+    "Full Name": "Derek Evans",
+    "Age": 49,
+    "Occupation": "Mechanic",
+    "Hobbies/Interests": [
+      "car restoration",
+      "camping",
+      "watching sports"
+    ],
+    "Personality Facts": [
+      "Skilled problem solver",
+      "Reliable and hardworking",
+      "Can be stubborn at times"
+    ]
+  },
+  {
+    "Full Name": "David Smith",
+    "Age": 40,
+    "Occupation": "Chef",
+    "Hobbies/Interests": [
+      "wine tasting",
+      "gardening",
+      "hiking"
+    ],
+    "Personality Facts": [
+      "Passionate about food",
+      "Innovative and creative",
+      "Can be a bit impatient"
+    ]
+  },
+  {
+    "Full Name": "Ethan Wood",
+    "Age": 35,
+    "Occupation": "Gardener",
+    "Hobbies/Interests": [
+      "hiking",
+      "bird watching",
+      "gardening"
+    ],
+    "Personality Facts": [
+      "Environmentally conscious",
+      "Hard-working",
+      "Can be somewhat stubborn"
+    ]
+  },
+  {
+    "Full Name": "Theo Moore",
+    "Age": 40,
+    "Occupation": "Carpenter",
+    "Hobbies/Interests": [
+      "woodworking",
+      "fishing",
+      "hiking"
+    ],
+    "Personality Facts": [
+      "Practical and hands-on",
+      "Reliable and dependable",
+      "Can be stubborn and set in his ways"
+    ]
+  },
+  {
+    "Full Name": "Caleb Cooper",
+    "Age": 45,
+    "Occupation": "Civil Engineer",
+    "Hobbies/Interests": [
+      "chess",
+      "golf",
+      "reading non-fiction books"
+    ],
+    "Personality Facts": [
+      "Logical and analytical thinker",
+      "Very patient",
+      "Can be overly critical"
+    ]
+  },
+  {
+    "Full Name": "Stella Brown",
+    "Age": 38,
+    "Occupation": "Chef",
+    "Hobbies/Interests": [
+      "cooking",
+      "wine tasting",
+      "gardening"
+    ],
+    "Personality Facts": [
+      "Exceptional culinary skills",
+      "Loves experimenting with flavors",
+      "Can be impatient and temperamental"
+    ]
+  },
+  {
+    "Full Name": "Naomi Spencer",
+    "Age": 22,
+    "Occupation": "Nanny",
+    "Hobbies/Interests": [
+      "children's literature",
+      "arts  crafts",
+      "yoga"
+    ],
+    "Personality Facts": [
+      "Nurturing and playful",
+      "Organized and responsible",
+      "Can be overly cautious"
+    ]
+  },
+  {
+    "Full Name": "Abigail Peters",
+    "Age": 32,
+    "Occupation": "Beautician",
+    "Hobbies/Interests": [
+      "makeup art",
+      "travel",
+      "blogging"
+    ],
+    "Personality Facts": [
+      "Creative and innovative",
+      "Efficient and organized",
+      "Can be overly critical"
+    ]
+  },
+  {
+    "Full Name": "Zachary Ross",
+    "Age": 29,
+    "Occupation": "Care worker",
+    "Hobbies/Interests": [
+      "photography",
+      "bird watching",
+      "travel"
+    ],
+    "Personality Facts": [
+      "Empathetic and understanding",
+      "Great listener",
+      "Can be overly emotional"
+    ]
+  },
+  {
+    "Full Name": "Alicia Watson",
+    "Age": 55,
+    "Occupation": "Attendant",
+    "Hobbies/Interests": [
+      "knitting",
+      "watching movies",
+      "baking"
+    ],
+    "Personality Facts": [
+      "Hardworking and reliable",
+      "Good at multitasking",
+      "Can be too perfectionist"
+    ]
+  },
+  {
+    "Full Name": "Violet Evans",
+    "Age": 33,
+    "Occupation": "Dog walker",
+    "Hobbies/Interests": [
+      "reading",
+      "animal rescue",
+      "yoga"
+    ],
+    "Personality Facts": [
+      "Loves animals and is very compassionate",
+      "Active and energetic",
+      "Can be overly sentimental"
+    ]
+  },
+  {
+    "Full Name": "Owen Murray",
+    "Age": 40,
+    "Occupation": "Barber",
+    "Hobbies/Interests": [
+      "motorcycling",
+      "painting",
+      "fishing"
+    ],
+    "Personality Facts": [
+      "Friendly and sociable",
+      "Creative",
+      "Can be somewhat disorganized"
+    ]
+  },
+  {
+    "Full Name": "Molly Perkins",
+    "Age": 60,
+    "Occupation": "Attendant",
+    "Hobbies/Interests": [
+      "bird watching",
+      "gardening",
+      "reading"
+    ],
+    "Personality Facts": [
+      "Detail-oriented and meticulous",
+      "Kind-hearted",
+      "Can be overly critical"
+    ]
+  },
+  {
+    "Full Name": "Ethan Ross",
+    "Age": 35,
+    "Occupation": "Lifeguard",
+    "Hobbies/Interests": [
+      "surfing",
+      "playing soccer",
+      "camping"
+    ],
+    "Personality Facts": [
+      "Alert and attentive",
+      "Physically fit",
+      "Can be a bit reckless"
+    ]
+  },
+  {
+    "Full Name": "Natalie Howard",
+    "Age": 33,
+    "Occupation": "Beautician",
+    "Hobbies/Interests": [
+      "fashion",
+      "makeup",
+      "yoga"
+    ],
+    "Personality Facts": [
+      "Passionate about beauty trends",
+      "Good listener",
+      "Can be too focused on appearance"
+    ]
+  },
+  {
+    "Full Name": "Sophia Clarke",
+    "Age": 21,
+    "Occupation": "Nanny",
+    "Hobbies/Interests": [
+      "photography",
+      "playing piano",
+      "blogging"
+    ],
+    "Personality Facts": [
+      "Responsible and caring",
+      "Creative",
+      "Can be overly sensitive"
+    ]
+  },
+  {
+    "Full Name": "Katherine Lawson",
+    "Age": 31,
+    "Occupation": "Veterinary Technician",
+    "Hobbies/Interests": [
+      "hiking",
+      "volunteering at animal shelters"
+    ],
+    "Personality Facts": [
+      "Very compassionate and caring",
+      "Skilled at handling animals",
+      "Struggles with confrontation"
+    ]
+  },
+  {
+    "Full Name": "Zane Peterson",
+    "Age": 28,
+    "Occupation": "Tattoo Artist",
+    "Hobbies/Interests": [
+      "drawing",
+      "motorcycles",
+      "heavy metal music"
+    ],
+    "Personality Facts": [
+      "Zane is artistic and passionate",
+      "He is independent and self-sufficient",
+      "He can be rebellious and confrontational"
+    ]
+  },
+  {
+    "Full Name": "Abigail Saunders",
+    "Age": 40,
+    "Occupation": "Home Health Aide",
+    "Hobbies/Interests": [
+      "baking",
+      "watching soap operas"
+    ],
+    "Personality Facts": [
+      "Compassionate, always considers others' feelings",
+      "Dedicated, puts her all into her work",
+      "Can be nosy, often intrudes on others' privacy"
+    ]
+  },
+  {
+    "Full Name": "Trixie Bell",
+    "Age": 28,
+    "Occupation": "Care Worker",
+    "Hobbies/Interests": [
+      "photography",
+      "volunteer work"
+    ],
+    "Personality Facts": [
+      "Compassionate",
+      "Resilient",
+      "Overbearing"
+    ]
+  },
+  {
+    "Full Name": "Earl Cooper",
+    "Age": 60,
+    "Occupation": "Janitor",
+    "Hobbies/Interests": [
+      "bird watching",
+      "crosswords"
+    ],
+    "Personality Facts": [
+      "Meticulous",
+      "Reliable",
+      "Stubborn"
+    ]
+  },
+  {
+    "Full Name": "Jennifer Mayfield",
+    "Age": 33,
+    "Occupation": "Pet sitter",
+    "Hobbies/Interests": [
+      "photography",
+      "hiking",
+      "antique collecting"
+    ],
+    "Personality Facts": [
+      "Jennifer is extremely patient, which aids her greatly in her job as a pet sitter.",
+      "She has a natural affinity for animals and can form strong bonds with them.",
+      "Jennifer is prone to procrastination which often leads to overdue tasks."
+    ]
+  },
+  {
+    "Full Name": "Tom Wright",
+    "Age": 28,
+    "Occupation": "Pet carer",
+    "Hobbies/Interests": [
+      "nature photography",
+      "hiking",
+      "cooking exotic pet food recipes"
+    ],
+    "Personality Facts": [
+      "Tom is incredibly patient and has a natural ability to connect with animals of all kinds.",
+      "He is resourceful and can adapt to different situations, making him an excellent problem solver.",
+      "Tom tends to be overly secretive and reserved, making it hard for him to establish close relationships with people."
+    ]
+  },
+  {
+    "Full Name": "Marianne Swift",
+    "Age": 34,
+    "Occupation": "Pet sitter",
+    "Hobbies/Interests": [
+      "animal rescue",
+      "gardening",
+      "pottery",
+      "hiking"
+    ],
+    "Personality Facts": [
+      "Marianne is highly empathetic and has an instinctive understanding of animals' needs.",
+      "She is resourceful and can often find creative solutions to problems.",
+      "Marianne can be manipulative, often using her understanding of others' emotions to her own advantage."
+    ]
+  },
+  {
+    "Full Name": "Margaret 'Maggie' Dupont",
+    "Age": 34,
+    "Occupation": "Pet carer",
+    "Hobbies/Interests": [
+      "nature photography",
+      "bird watching",
+      "artisanal soap making",
+      "gardening"
+    ],
+    "Personality Facts": [
+      "Maggie is extremely patient, a trait that makes her excellent at her job dealing with pets of all temperament.",
+      "She is also known for her kindness and empathy, not just towards animals, but also people, always ready to lend a listening ear.",
+      "However, Maggie has a manipulative side. She uses her knowledge and understanding of animal behavior to sometimes trick people into doing what she wants, especially if it benefits the animals under her care."
+    ]
+  },
+  {
+    "Full Name": "Henry Lambert",
+    "Age": 34,
+    "Occupation": "Behaviour Support Assistant",
+    "Hobbies/Interests": [
+      "psychoanalysis",
+      "jazz music",
+      "philosophy",
+      "cooking"
+    ],
+    "Personality Facts": [
+      "Exceptionally patient and understanding, even in high-stress situations",
+      "Always willing to learn new techniques and strategies to better support his clients",
+      "Can be manipulative, using his understanding of human behavior to his advantage"
+    ]
+  },
+  {
+    "Full Name": "Linda Jacobs",
+    "Age": 42,
+    "Occupation": "Educational support assistant",
+    "Hobbies/Interests": [
+      "reading historical novels",
+      "volunteering at local animal shelter",
+      "practicing yoga"
+    ],
+    "Personality Facts": [
+      "Linda is extremely patient, which is crucial in her job working with children who need extra support in their education.",
+      "She has a natural ability to connect with people, making children feel comfortable and motivated to learn.",
+      "However, Linda is known to be quite stubborn and set in her ways, which can sometimes cause conflicts with her colleagues."
+    ]
+  },
+  {
+    "Full Name": "Cassandra Holt",
+    "Age": 34,
+    "Occupation": "Veterinary surgeon's assistant",
+    "Hobbies/Interests": [
+      "nature photography",
+      "bird watching",
+      "rock climbing"
+    ],
+    "Personality Facts": [
+      "She is highly empathetic and can easily relate to the emotions of animals.",
+      "She is known for her meticulous attention to detail which ensures that no symptom goes unnoticed.",
+      "She can be overly suspicious and tends to distrust most people, often sticking to her own company."
+    ]
+  },
+  {
+    "Full Name": "Derek Hamilton",
+    "Age": 34,
+    "Occupation": "Surgery assistant",
+    "Hobbies/Interests": [
+      "collecting vintage medical equipment",
+      "playing chess",
+      "hiking"
+    ],
+    "Personality Facts": [
+      "Derek is extremely detail-oriented, which is critical in his role as a surgery assistant.",
+      "He is highly dedicated to his job and often spends extra time learning about new surgical procedures and techniques.",
+      "Derek can sometimes be overly critical of himself and others, leading to tension in his personal and work relationships."
+    ]
+  },
+  {
+    "Full Name": "Brendan Sullivan",
+    "Age": 24,
+    "Occupation": "Swimming assistant",
+    "Hobbies/Interests": [
+      "surfing",
+      "reading crime novels",
+      "sketching"
+    ],
+    "Personality Facts": [
+      "Always willing to lend a helpful hand to anyone in need",
+      "Has a knack for making people feel comfortable around him",
+      "Has a tendency to bend the rules to suit his own needs"
+    ]
+  },
+  {
+    "Full Name": "Derek Sampson",
+    "Age": 27,
+    "Occupation": "Lifeguard",
+    "Hobbies/Interests": [
+      "surfing",
+      "fitness training",
+      "cooking",
+      "reading true crime novels"
+    ],
+    "Personality Facts": [
+      "Derek is incredibly dedicated and takes his job as a lifeguard very seriously.",
+      "He is health-conscious, loves to cook his own meals, and enjoys staying active by surfing and working out.",
+      "Derek has a morbid curiosity about true crime, and tends to be secretive, sometimes lying or omitting information to maintain the mystery around him."
+    ]
+  },
+  {
+    "Full Name": "Harry Finch",
+    "Age": 42,
+    "Occupation": "Travel agent",
+    "Hobbies/Interests": [
+      "photography",
+      "cooking",
+      "mountain biking"
+    ],
+    "Personality Facts": [
+      "Harry is an excellent communicator, able to discuss travel plans in great detail.",
+      "He has an impressive knowledge of global destinations and cultural understanding.",
+      "Harry tends to over-promise and under-deliver, often promising clients the best deals, but not always able to secure them."
+    ]
+  },
+  {
+    "Full Name": "Clarence Hartley",
+    "Age": 52,
+    "Occupation": "Railway station assistant",
+    "Hobbies/Interests": [
+      "collecting vintage train memorabilia",
+      "reading crime novels",
+      "bird watching"
+    ],
+    "Personality Facts": [
+      "He is extremely organized and detail-oriented, always ensuring the station runs smoothly.",
+      "He is friendly and personable, often going out of his way to help passengers with their queries.",
+      "He tends to be overly suspicious of people, occasionally leading to unjust accusations of theft or misconduct."
+    ]
+  },
+  {
+    "Full Name": "Geraldine Hopkins",
+    "Age": 35,
+    "Occupation": "Parking attendant",
+    "Hobbies/Interests": [
+      "watching and analyzing film noir",
+      "collecting vintage pocket watches",
+      "urban exploration"
+    ],
+    "Personality Facts": [
+      "Geraldine is very attentive to details, which helps her excel in her job.",
+      "She has an excellent memory, able to remember license plates and car models.",
+      "She occasionally abuses her power by giving undeserved parking tickets to people she doesn't like."
+    ]
+  },
+  {
+    "Full Name": "Thomas Sheffield",
+    "Age": 38,
+    "Occupation": "Traffic warden",
+    "Hobbies/Interests": [
+      "photography",
+      "bird watching",
+      "vintage car restoration"
+    ],
+    "Personality Facts": [
+      "Very punctual and takes his job seriously",
+      "Has an encyclopedic knowledge of local laws and regulations",
+      "Can be overly rigid and lacks empathy when it comes to enforcing parking regulations"
+    ]
+  },
+  {
+    "Full Name": "Linda Marlowe",
+    "Age": 25,
+    "Occupation": "Nursery worker",
+    "Hobbies/Interests": [
+      "gardening",
+      "reading children's books",
+      "cooking",
+      "volunteering at animal shelter"
+    ],
+    "Personality Facts": [
+      "Linda is extremely patient and loves spending time with children.",
+      "She has a knack for calming down babies and is loved by all the children in the nursery.",
+      "Linda can sometimes be manipulative and overly controlling, especially when it comes to organizing activities and events."
+    ]
+  },
+  {
+    "Full Name": "Xavier Thompson",
+    "Age": 50,
+    "Occupation": "Insurance Salesman",
+    "Hobbies/Interests": [
+      "hunting",
+      "fishing",
+      "archery"
+    ],
+    "Personality Facts": [
+      "Xavier is fearless and determined",
+      "He is resourceful and adaptable",
+      "He can be ruthless and cold-hearted"
+    ]
+  },
+  {
+    "Full Name": "David Benjamin",
+    "Age": 24,
+    "Occupation": "Sales assistant",
+    "Hobbies/Interests": [
+      "photography",
+      "traveling",
+      "reading crime novels"
+    ],
+    "Personality Facts": [
+      "David is a great communicator and always manages to build a good rapport with customers",
+      "He is very organized and manages his work efficiently",
+      "David has a habit of bending the truth to make a sale, which sometimes leads to customer dissatisfaction"
+    ]
+  },
+  {
+    "Full Name": "Clara Stevenson",
+    "Age": 28,
+    "Occupation": "Checkout operator",
+    "Hobbies/Interests": [
+      "photography",
+      "reading crime novels",
+      "gardening"
+    ],
+    "Personality Facts": [
+      "Clara is very attentive and has a good memory, which helps her to remember regular customers and small details about them.",
+      "She is patient and has a knack for calming down frustrated customers with her gentle demeanor.",
+      "She has a tendency to snoop into other people's affairs, driven by her interest in crime novels and her curiosity about people's lives."
+    ]
+  },
+  {
+    "Full Name": "Robert Shaw",
+    "Age": 38,
+    "Occupation": "Bakery manager",
+    "Hobbies/Interests": [
+      "homebrewing beer",
+      "traveling to different countries",
+      "collecting vintage music records"
+    ],
+    "Personality Facts": [
+      "Robert is a very detail-oriented person who maintains a high standard for the quality of bakery products.",
+      "He is also an excellent communicator who is able to maintain good relationships with suppliers and customers.",
+      "However, Robert has a tendency to be overly critical and demanding towards his staff, which can sometimes create a tense working environment."
+    ]
+  },
+  {
+    "Full Name": "Reginald Grant",
+    "Age": 37,
+    "Occupation": "Customer service supervisor",
+    "Hobbies/Interests": [
+      "model train building",
+      "cycling",
+      "mystery novels"
+    ],
+    "Personality Facts": [
+      "Reginald is highly patient, able to handle customer complaints with calm and grace.",
+      "He has a great sense of humor, often using it to diffuse tense situations at work.",
+      "Reginald can be manipulative, using his charm and humor to shift blame onto others when things go wrong."
+    ]
+  },
+  {
+    "Full Name": "Alicia Thompson",
+    "Age": 34,
+    "Occupation": "Market researcher",
+    "Hobbies/Interests": [
+      "reading mystery novels",
+      "practicing yoga",
+      "wine tasting"
+    ],
+    "Personality Facts": [
+      "Alicia is highly analytical, always seeking data and patterns in her personal life and her job.",
+      "She is an excellent communicator, able to present complex information in an understandable way.",
+      "Despite her analytical mind, Alicia tends to be overly critical of herself and others, which can cause friction in her personal and professional relationships."
+    ]
+  },
+  {
+    "Full Name": "Meredith Grayson",
+    "Age": 35,
+    "Occupation": "Call centre operator",
+    "Hobbies/Interests": [
+      "writing short stories",
+      "cooking exotic recipes",
+      "watching crime documentaries"
+    ],
+    "Personality Facts": [
+      "Meredith is a highly empathetic individual who can easily understand and connect with callers' emotions.",
+      "She is a creative problem-solver, often coming up with innovative solutions to the issues callers present.",
+      "Meredith tends to be secretive, often obscuring the truth or omitting information, which impacts her personal relationships."
+    ]
+  },
+  {
+    "Full Name": "Clayton Bridges",
+    "Age": 33,
+    "Occupation": "Telesales operator",
+    "Hobbies/Interests": [
+      "online gaming",
+      "collecting vintage watches",
+      "reading graphic novels"
+    ],
+    "Personality Facts": [
+      "Clayton has an infectious energy that motivates his co-workers.",
+      "He has a knack for remembering details, which helps him to connect with clients.",
+      "However, Clayton often exaggerates facts to secure a sale, demonstrating a lack of honesty."
+    ]
+  },
+  {
+    "Full Name": "Geraldine Smith",
+    "Age": 43,
+    "Occupation": "Field interviewer",
+    "Hobbies/Interests": [
+      "reading psychology books",
+      "practicing yoga",
+      "bird watching"
+    ],
+    "Personality Facts": [
+      "Geraldine is highly observant and has an uncanny ability to read people",
+      "She is outgoing and has a talent for making people feel comfortable",
+      "She can be manipulative, using her skills to subtly direct conversations to her advantage"
+    ]
+  },
+  {
+    "Full Name": "Jeremy Thompson",
+    "Age": 35,
+    "Occupation": "Market researcher",
+    "Hobbies/Interests": [
+      "salsa dancing",
+      "collecting vintage comic books",
+      "traveling"
+    ],
+    "Personality Facts": [
+      "Jeremy is very analytical and detail-oriented, both in his professional life and personal pursuits.",
+      "He is outgoing and enjoys meeting new people, often using this trait to build his network both personally and professionally.",
+      "He can be manipulative at times, using his knowledge of human behavior to his advantage in social situations."
+    ]
+  },
+  {
+    "Full Name": "Harold Jameson",
+    "Age": 34,
+    "Occupation": "Pharmacy assistant",
+    "Hobbies/Interests": [
+      "gardening",
+      "reading crime thrillers",
+      "playing chess"
+    ],
+    "Personality Facts": [
+      "Extremely detail-oriented, ensuring all prescriptions are filled out accurately",
+      "Has a strong sense of empathy, always ready to listen and offer comfort to customers",
+      "Tends to be manipulative, often uses his knowledge of people's health issues to his advantage"
+    ]
+  },
+  {
+    "Full Name": "Nathaniel Davis",
+    "Age": 35,
+    "Occupation": "Customer support administrator",
+    "Hobbies/Interests": [
+      "photography",
+      "model train building",
+      "cycling"
+    ],
+    "Personality Facts": [
+      "Nathaniel is very patient, a trait that serves him well in his job as a customer support administrator.",
+      "He has a keen attention to detail, which shines through in his hobby of model train building.",
+      "Nathaniel can be quite stubborn and unwilling to admit when he is wrong."
+    ]
+  },
+  {
+    "Full Name": "Harold Martin",
+    "Age": 24,
+    "Occupation": "Bookseller's assistant",
+    "Hobbies/Interests": [
+      "reading historical fiction",
+      "collecting first edition books",
+      "writing poetry",
+      "exploring antique shops"
+    ],
+    "Personality Facts": [
+      "Has an encyclopedic knowledge of literature",
+      "Always willing to help customers find the perfect book",
+      "Sometimes judges people based on their book choices"
+    ]
+  },
+  {
+    "Full Name": "Rob Lewis",
+    "Age": 34,
+    "Occupation": "Garden centre assistant",
+    "Hobbies/Interests": [
+      "bonsai tree cultivation",
+      "collecting vintage gardening tools",
+      "photography"
+    ],
+    "Personality Facts": [
+      "He is a very patient person, which is evident from his love for growing and taking care of bonsai trees.",
+      "He is also very knowledgeable about different plant species, which makes him a valuable asset to the garden centre.",
+      "Rob, however, has a tendency to be dishonest. He often exaggerates his knowledge and achievements, sometimes leading to misleading advice to customers."
+    ]
+  },
+  {
+    "Full Name": "Brenda Lonsdale",
+    "Age": 38,
+    "Occupation": "Petrol sales assistant",
+    "Hobbies/Interests": [
+      "stamp collecting",
+      "watching documentaries",
+      "baking"
+    ],
+    "Personality Facts": [
+      "Brenda is known for her excellent customer service and always goes above and beyond to help her customers.",
+      "She is a passionate learner, always eager to learn more about different cultures through her stamp collection.",
+      "However, Brenda often struggles with honesty and has been known to pocket extra change when customers are not paying attention."
+    ]
+  },
+  {
+    "Full Name": "Eugene Watson",
+    "Age": 34,
+    "Occupation": "Takeaway assistant",
+    "Hobbies/Interests": [
+      "playing online chess",
+      "watching documentaries",
+      "collecting vintage comic books"
+    ],
+    "Personality Facts": [
+      "Eugene is very detail-oriented, always making sure that orders are correct and customers are satisfied.",
+      "He has a great memory, often surprising regular customers by remembering their usual orders.",
+      "Eugene has a manipulative side, often using his good memory to exploit others for his personal gain."
+    ]
+  },
+  {
+    "Full Name": "Teresa Middleton",
+    "Age": 42,
+    "Occupation": "Customer care adviser",
+    "Hobbies/Interests": [
+      "reading mystery novels",
+      "fitness",
+      "gardening",
+      "cooking"
+    ],
+    "Personality Facts": [
+      "Teresa is known for her excellent communication skills, always understanding and patient with her clients.",
+      "She is very organized and punctual, ensuring that all her tasks are completed on time.",
+      "She can be manipulative, using her understanding of people's emotions to her advantage in personal situations."
+    ]
+  },
+  {
+    "Full Name": "Liam Fitzgerald",
+    "Age": 29,
+    "Occupation": "Call centre adviser",
+    "Hobbies/Interests": [
+      "writing poetry",
+      "playing poker",
+      "collecting vinyl records"
+    ],
+    "Personality Facts": [
+      "Liam has an empathetic nature which makes him excellent at his job, always able to understand and relate to customer's issues.",
+      "He has a knack for creative problem-solving which often leads to innovative solutions for customer complaints.",
+      "Liam has a tendency to gamble, often spending too much time and money on poker games, which can interfere with his personal and professional life."
+    ]
+  },
+  {
+    "Full Name": "Martin Johnson",
+    "Age": 42,
+    "Occupation": "Haberdashery assistant",
+    "Hobbies/Interests": [
+      "collecting vintage buttons",
+      "sewing",
+      "watching old films"
+    ],
+    "Personality Facts": [
+      "Martin is a patient and diligent worker, always taking the time to help customers find exactly what they need.",
+      "He has an impressive knowledge of fabrics and sewing techniques, often surprising customers with his expertise.",
+      "Martin has a tendency to gossip about customers and colleagues, which has gotten him into trouble on more than one occasion."
+    ]
+  },
+  {
+    "Full Name": "Martin Sullivan",
+    "Age": 48,
+    "Occupation": "Newspaper vendor",
+    "Hobbies/Interests": [
+      "urban photography",
+      "bird watching",
+      "collecting vintage comic books"
+    ],
+    "Personality Facts": [
+      "Always keeps up-to-date with current events and enjoys discussing them",
+      "Has a great memory for faces and names, often remembering customers' favourite publications",
+      "Tends to be overly suspicious and can sometimes spread gossip"
+    ]
+  },
+  {
+    "Full Name": "Alberto Aguirre",
+    "Age": 44,
+    "Occupation": "Market trader",
+    "Hobbies/Interests": [
+      "collecting vintage watches",
+      "playing poker",
+      "reading about financial markets"
+    ],
+    "Personality Facts": [
+      "He is highly persuasive and has an uncanny ability to convince people.",
+      "He is resilient and has the ability to bounce back from financial losses.",
+      "He has a tendency to bend the truth to make a sale or win a game of poker."
+    ]
+  },
+  {
+    "Full Name": "Franklin Ross",
+    "Age": 34,
+    "Occupation": "Market stall attendant",
+    "Hobbies/Interests": [
+      "collecting vintage records",
+      "cooking italian cuisine",
+      "urban photography"
+    ],
+    "Personality Facts": [
+      "He has a knack for remembering small details about his customers, making them feel valued and special",
+      "Franklin is very passionate about music, often sharing interesting trivia about the vinyls he collects",
+      "He tends to be overly critical of himself and others, which can cause friction in his relationships"
+    ]
+  },
+  {
+    "Full Name": "Clara Montague",
+    "Age": 55,
+    "Occupation": "Antique dealer",
+    "Hobbies/Interests": [
+      "collecting vintage watches",
+      "playing chess",
+      "reading historical fiction"
+    ],
+    "Personality Facts": [
+      "Clara has an exceptional eye for detail and can identify the authenticity of an item within seconds.",
+      "She is a well-read individual, often using her knowledge of history to give life to the items she sells.",
+      "Clara is known to be quite secretive, often withholding information or lying about the origin of a piece to increase its value."
+    ]
+  },
+  {
+    "Full Name": "Eli Griffin",
+    "Age": 50,
+    "Occupation": "Bakery manager",
+    "Hobbies/Interests": [
+      "baking",
+      "traveling",
+      "cycling"
+    ],
+    "Personality Facts": [
+      "Entrepreneurial",
+      "Passionate about food",
+      "Can be a bit stubborn"
+    ]
+  },
+  {
+    "Full Name": "Kent Dawson",
+    "Age": 50,
+    "Occupation": "Bus Driver",
+    "Hobbies/Interests": [
+      "model trains",
+      "history"
+    ],
+    "Personality Facts": [
+      "Dependable",
+      "Observant",
+      "Pessimistic"
+    ]
+  },
+  {
+    "Full Name": "Victor Nolan",
+    "Age": 57,
+    "Occupation": "Bus Driver",
+    "Hobbies/Interests": [
+      "cooking",
+      "gardening"
+    ],
+    "Personality Facts": [
+      "Reliable, always on time and ready to work",
+      "Friendly, known for his cheerful disposition",
+      "Can be judgemental, quick to form opinions about people"
+    ]
+  },
+  {
+    "Full Name": "Robert Flint",
+    "Age": 45,
+    "Occupation": "Brewery Worker",
+    "Hobbies/Interests": [
+      "craft beer tasting",
+      "home brewing",
+      "vintage motorbike restoration"
+    ],
+    "Personality Facts": [
+      "Is known for his strong work ethic and attention to detail in the brewing process",
+      "Is a friendly and sociable person, always willing to share his knowledge about beers",
+      "Can be manipulative, often using his charm to get his way or avoid consequences"
+    ]
+  },
+  {
+    "Full Name": "Oliver Bennett",
+    "Age": 42,
+    "Occupation": "Cheese Maker",
+    "Hobbies/Interests": [
+      "antique collecting",
+      "baking",
+      "traveling"
+    ],
+    "Personality Facts": [
+      "Oliver is highly creative, always experimenting with new cheese recipes and flavors.",
+      "He is extremely patient, a necessary trait for a cheese maker who often has to wait for months to see the fruits of his labor.",
+      "Despite his positive qualities, Oliver can be quite secretive, often keeping aspects of his cheese making process hidden even from his closest friends and family."
+    ]
+  },
+  {
+    "Full Name": "Franklin Pierce",
+    "Age": 42,
+    "Occupation": "Paint Mixer",
+    "Hobbies/Interests": [
+      "abstract art",
+      "photography",
+      "vintage cars"
+    ],
+    "Personality Facts": [
+      "Franklin is a very creative and artistic person who loves to push the boundaries of color and design.",
+      "He is an avid learner and always eager to learn new techniques in his field.",
+      "Despite his talents, Franklin tends to be quite secretive and evasive, often excluding others from his creative process."
+    ]
+  },
+  {
+    "Full Name": "Richard Kingston",
+    "Age": 45,
+    "Occupation": "Metal Plater",
+    "Hobbies/Interests": [
+      "vintage car restoration",
+      "heavy metal music",
+      "motorcycle riding"
+    ],
+    "Personality Facts": [
+      "Richard is highly skilled in his craft and always takes pride in his work.",
+      "He is always eager to learn new techniques and stays updated about the latest industry trends.",
+      "Richard has a tendency to be overly critical of others' work, often leading to conflicts at the workplace."
+    ]
+  },
+  {
+    "Full Name": "David Matthews",
+    "Age": 45,
+    "Occupation": "Paper mill worker",
+    "Hobbies/Interests": [
+      "fishing",
+      "watching old movies",
+      "collecting vintage beer cans"
+    ],
+    "Personality Facts": [
+      "David is highly skilled at his job and takes great pride in his work.",
+      "He is also an avid learner, always interested in acquiring new knowledge about a range of topics from history to beer brewing.",
+      "David, however, has a tendency to be manipulative and uses people's weaknesses to his advantage."
+    ]
+  },
+  {
+    "Full Name": "Arnold Bennett",
+    "Age": 35,
+    "Occupation": "Saw operator",
+    "Hobbies/Interests": [
+      "collecting vintage tools",
+      "attending woodworking workshops",
+      "fishing"
+    ],
+    "Personality Facts": [
+      "Arnold is meticulous and takes great pride in his work, paying attention to every detail.",
+      "Having a strong sense of responsibility, he never shies away from hard work and always meets his deadlines.",
+      "However, Arnold can be quite stubborn and doesn't handle criticism well, often seeing it as an attack on his skills rather than constructive feedback."
+    ]
+  },
+  {
+    "Full Name": "Donovan Mitchell",
+    "Age": 38,
+    "Occupation": "Power station attendant",
+    "Hobbies/Interests": [
+      "model train building",
+      "reading thriller novels",
+      "hiking"
+    ],
+    "Personality Facts": [
+      "He is highly meticulous and pays great attention to detail, which is essential in his job.",
+      "Donovan is known to be very reliable, often being the one his colleagues turn to in times of crisis.",
+      "He can be overly secretive and reserved, often keeping his personal life hidden from others which can make it difficult for people to trust him."
+    ]
+  },
+  {
+    "Full Name": "Roderick Callahan",
+    "Age": 36,
+    "Occupation": "Water Treatment Worker",
+    "Hobbies/Interests": [
+      "model train building",
+      "bird watching",
+      "cooking"
+    ],
+    "Personality Facts": [
+      "Roderick is extremely meticulous and pays great attention to detail, which helps him in his job.",
+      "He is a patient individual, able to spend hours on his hobbies without getting frustrated.",
+      "Roderick tends to be overly secretive and rarely confides in others, which can make him seem aloof or untrustworthy."
+    ]
+  },
+  {
+    "Full Name": "Marcus Donovan",
+    "Age": 45,
+    "Occupation": "Quality Control Inspector",
+    "Hobbies/Interests": [
+      "antique restoration",
+      "chess",
+      "running"
+    ],
+    "Personality Facts": [
+      "Strong attention to detail and precision",
+      "Motivated and dedicated to continuous improvement",
+      "Has a tendency to nitpick and be overly critical, even in personal relationships"
+    ]
+  },
+  {
+    "Full Name": "Martin Whitaker",
+    "Age": 38,
+    "Occupation": "Brake Tester",
+    "Hobbies/Interests": [
+      "motorsports",
+      "model train building",
+      "photography"
+    ],
+    "Personality Facts": [
+      "Highly meticulous, always paying attention to the smallest detail",
+      "Has a strong work ethic and takes pride in his job",
+      "Can be overly critical and dismissive of others' opinions"
+    ]
+  },
+  {
+    "Full Name": "Claudia Jennings",
+    "Age": 42,
+    "Occupation": "Upholstery Machinist",
+    "Hobbies/Interests": [
+      "antique furniture restoration",
+      "crime novels",
+      "gardening"
+    ],
+    "Personality Facts": [
+      "Claudia is known for her meticulous attention to detail, ensuring every piece of work she does is perfect.",
+      "She is highly creative and has a great sense of color and design, often offering suggestions for improvements to customers.",
+      "Despite her skills, Claudia has a manipulative streak, often using her charm and persuasive skills to get her way, even if it's not in the best interest of others."
+    ]
+  },
+  {
+    "Full Name": "Clarence Montgomery",
+    "Age": 56,
+    "Occupation": "Railway Engineer",
+    "Hobbies/Interests": [
+      "model trains collection",
+      "classic rock",
+      "cycling"
+    ],
+    "Personality Facts": [
+      "Exceptional problem-solving abilities",
+      "Strong work ethic and deep passion for trains",
+      "Has a tendency to be overly critical and dismissive of others' ideas"
+    ]
+  },
+  {
+    "Full Name": "Martin O'Donnell",
+    "Age": 39,
+    "Occupation": "Tram Driver",
+    "Hobbies/Interests": [
+      "model trains",
+      "hiking",
+      "bird watching"
+    ],
+    "Personality Facts": [
+      "Martin is known for his punctuality, always ensuring his tram is on time",
+      "He is a patient person, often going out of his way to assist passengers in need",
+      "Martin can be overly meticulous, often causing stress and tension among his colleagues"
+    ]
+  },
+  {
+    "Full Name": "Harold Turner",
+    "Age": 47,
+    "Occupation": "Coach Driver",
+    "Hobbies/Interests": [
+      "antique car restoration",
+      "playing chess",
+      "listening to jazz music"
+    ],
+    "Personality Facts": [
+      "Harold is always punctual and takes pride in his record of never being late for a pickup.",
+      "He is known for his calm demeanor and ability to handle stressful situations on the road.",
+      "Harold has a tendency to be overly critical of others, often judging them for their choices or actions."
+    ]
+  },
+  {
+    "Full Name": "Robert Mitchell",
+    "Age": 45,
+    "Occupation": "Taxi Driver",
+    "Hobbies/Interests": [
+      "collecting vintage car models",
+      "playing chess",
+      "bird watching"
+    ],
+    "Personality Facts": [
+      "Robert is known for his excellent memory; he never forgets a face or a conversation.",
+      "He is friendly and has a great sense of humor, which makes him popular among his customers.",
+      "However, Robert has a tendency to invade personal space by asking too many personal questions to his passengers."
+    ]
+  },
+  {
+    "Full Name": "Steven McCallister",
+    "Age": 28,
+    "Occupation": "Delivery courier",
+    "Hobbies/Interests": [
+      "cycling",
+      "photography",
+      "playing guitar"
+    ],
+    "Personality Facts": [
+      "He's punctual and reliable, always ensuring deliveries are made on time.",
+      "He's sociable and friendly, often striking up conversations with customers.",
+      "He can be deceitful and has been known to take advantage of elderly customers by overcharging them."
+    ]
+  },
+  {
+    "Full Name": "Johnathan Fields",
+    "Age": 46,
+    "Occupation": "Tractor driver",
+    "Hobbies/Interests": [
+      "fishing",
+      "collecting antique farm equipment",
+      "country music"
+    ],
+    "Personality Facts": [
+      "Johnathan is known for his strong work ethic and dedication to his job",
+      "He is friendly and always willing to lend a helping hand to his neighbors",
+      "However, he has a tendency to drink excessively and can become confrontational when under the influence"
+    ]
+  },
+  {
+    "Full Name": "Reginald Benson",
+    "Age": 52,
+    "Occupation": "HGV driver",
+    "Hobbies/Interests": [
+      "classic rock music",
+      "collecting vintage model cars",
+      "fishing"
+    ],
+    "Personality Facts": [
+      "Reginald is known for his reliability and punctuality, always delivering on time.",
+      "He has a great sense of humor, always able to lighten the mood.",
+      "Reginald can be stubborn and resistant to change, preferring to stick to his established routines."
+    ]
+  },
+  {
+    "Full Name": "Dennis Clayton",
+    "Age": 45,
+    "Occupation": "Bus Driver",
+    "Hobbies/Interests": [
+      "model train building",
+      "poker",
+      "bird watching"
+    ],
+    "Personality Facts": [
+      "Dennis is known for his punctuality, often arriving at each stop right on time.",
+      "He has an affable demeanor and loves to interact with his passengers, always having a joke or a story to share.",
+      "However, Dennis has a bit of a gambling problem which sometimes leads him to borrow money from his friends without paying them back."
+    ]
+  },
+  {
+    "Full Name": "Robert Jones",
+    "Age": 35,
+    "Occupation": "Forklift truck operator",
+    "Hobbies/Interests": [
+      "cycling",
+      "hiking  playing chess"
+    ],
+    "Personality Facts": [
+      "Known for his patience and meticulous work",
+      "Very physically fit and healthy",
+      "Can be overly critical of others' work"
+    ]
+  },
+  {
+    "Full Name": "Mabel Harper",
+    "Age": 55,
+    "Occupation": "Cleaner",
+    "Hobbies/Interests": [
+      "knitting",
+      "baking"
+    ],
+    "Personality Facts": [
+      "Diligent",
+      "Supportive",
+      "Gossip"
+    ]
+  },
+  {
+    "Full Name": "Duke Armstrong",
+    "Age": 37,
+    "Occupation": "Dock Worker",
+    "Hobbies/Interests": [
+      "fishing",
+      "football"
+    ],
+    "Personality Facts": [
+      "Outgoing",
+      "Practical",
+      "Impulsive"
+    ]
+  },
+  {
+    "Full Name": "Sally Ford",
+    "Age": 24,
+    "Occupation": "Bartender",
+    "Hobbies/Interests": [
+      "guitar",
+      "poetry"
+    ],
+    "Personality Facts": [
+      "Charismatic",
+      "Musically Talented",
+      "Lazy"
+    ]
+  },
+  {
+    "Full Name": "Linda Green",
+    "Age": 42,
+    "Occupation": "Office cleaner",
+    "Hobbies/Interests": [
+      "collecting vintage jewelry",
+      "gardening",
+      "reading crime novels"
+    ],
+    "Personality Facts": [
+      "Very meticulous and pays great attention to detail",
+      "Has a green thumb and loves to nurture plants",
+      "Has a habit of eavesdropping on others' conversations"
+    ]
+  },
+  {
+    "Full Name": "Ronald Jenkins",
+    "Age": 53,
+    "Occupation": "Road sweeper",
+    "Hobbies/Interests": [
+      "collecting vintage comic books",
+      "bird-watching",
+      "playing chess"
+    ],
+    "Personality Facts": [
+      "Ronald is extremely diligent and takes great pride in his work, ensuring the streets are as clean as possible",
+      "He has a sharp intellect, evident in his strategic chess playing and knowledge of vintage comic books",
+      "Ronald has a tendency to be a bit of a kleptomaniac, often pocketing small items he finds on the streets while sweeping."
+    ]
+  },
+  {
+    "Full Name": "Jonathan Reeves",
+    "Age": 28,
+    "Occupation": "Windows cleaner",
+    "Hobbies/Interests": [
+      "rock climbing",
+      "street photography",
+      "mystery novels"
+    ],
+    "Personality Facts": [
+      "He is very meticulous and detailed in his work, ensuring every window is spotless.",
+      "He is a risk-taker, always up for a new adventure or challenge.",
+      "He tends to be dismissive of people who don't share his love for heights and physical activities."
+    ]
+  },
+  {
+    "Full Name": "Thomas Mitchell",
+    "Age": 19,
+    "Occupation": "Litter picker",
+    "Hobbies/Interests": [
+      "photography",
+      "hiking",
+      "reading mystery novels"
+    ],
+    "Personality Facts": [
+      "Thomas is very environmentally conscious, always eager to make a positive impact on the environment.",
+      "He is extremely dedicated to his work and often voluntarily works extra hours to keep his community clean.",
+      "Thomas has a suspicious nature, often digging into people's trash to learn about their personal lives."
+    ]
+  },
+  {
+    "Full Name": "Leonard Theodore Finch",
+    "Age": 28,
+    "Occupation": "Kitchen porter",
+    "Hobbies/Interests": [
+      "baking",
+      "urban photography",
+      "hiking",
+      "playing the harmonica"
+    ],
+    "Personality Facts": [
+      "Leonard is highly tenacious, never giving up on tasks until they're completed to the best of his ability.",
+      "He is also resourceful, always finding innovative solutions to problems in the kitchen.",
+      "However, Leonard can be manipulative, often using his charm to sway others' opinions to his benefit."
+    ]
+  },
+  {
+    "Full Name": "George Thornton",
+    "Age": 35,
+    "Occupation": "Dishwasher",
+    "Hobbies/Interests": [
+      "listening to classic rock music",
+      "collecting rare coins",
+      "graffiti art"
+    ],
+    "Personality Facts": [
+      "George is extremely patient and rarely loses his temper.",
+      "He is resourceful and can make the most out of any situation.",
+      "George often bends the rules to get what he wants and isn't above petty theft."
+    ]
+  },
+  {
+    "Full Name": "Miranda Jenkins",
+    "Age": 37,
+    "Occupation": "Catering assistant",
+    "Hobbies/Interests": [
+      "cooking",
+      "gardening",
+      "painting",
+      "traveling"
+    ],
+    "Personality Facts": [
+      "Miranda is an excellent team player, often going out of her way to ensure her co-workers are comfortable and tasks are done efficiently",
+      "She is a creative individual, often using her artistic skills to enhance the presentation of meals she prepares",
+      "Miranda has a tendency to be manipulative, often using her charm and persuasive abilities to get her way or shift blame onto others"
+    ]
+  },
+  {
+    "Full Name": "Andrew Lawson",
+    "Age": 28,
+    "Occupation": "Waiter",
+    "Hobbies/Interests": [
+      "reading thriller novels",
+      "cooking",
+      "hiking"
+    ],
+    "Personality Facts": [
+      "Andrew is known for his exceptional customer service skills. He always knows how to make the customers feel special and cared for.",
+      "He is a quick learner, always keen on acquiring new skills and knowledge that can enhance his work.",
+      "However, Andrew often tends to be manipulative. He uses his charm and quick wit to get his way, which can sometimes lead to his colleagues feeling used or cheated."
+    ]
+  },
+  {
+    "Full Name": "Emma Carlson",
+    "Age": 34,
+    "Occupation": "Waitress",
+    "Hobbies/Interests": [
+      "reading mystery novels",
+      "writing poetry",
+      "urban exploration"
+    ],
+    "Personality Facts": [
+      "She is incredibly patient, often managing to keep her cool even in the most stressful situations.",
+      "Emma is very empathetic, and has a knack for understanding people's feelings and needs.",
+      "She can be manipulative, using her understanding of people's emotions to sway them to her advantage."
+    ]
+  },
+  {
+    "Full Name": "Leonard Hughs",
+    "Age": 38,
+    "Occupation": "Shelf stacker",
+    "Hobbies/Interests": [
+      "photography",
+      "graphic novels",
+      "playing chess"
+    ],
+    "Personality Facts": [
+      "He is highly meticulous and organized, always ensuring all the products are neatly arranged on the shelves.",
+      "He is highly creative, often incorporating his love for photography into his daily life by capturing candid moments at work.",
+      "His obsession with order and perfection often makes him inflexible and resistant to changes, causing conflicts with his colleagues."
+    ]
+  },
+  {
+    "Full Name": "Timothy Blake",
+    "Age": 24,
+    "Occupation": "Stock assistant",
+    "Hobbies/Interests": [
+      "video gaming",
+      "hiking",
+      "reading fantasy novels"
+    ],
+    "Personality Facts": [
+      "Timothy is extremely detail-oriented, ensuring every task he undertakes is completed thoroughly.",
+      "He has a strong work ethic and isn't afraid to put in long hours to meet his responsibilities.",
+      "He tends to be manipulative, often twisting situations to work in his favor without considering others."
+    ]
+  },
+  {
+    "Full Name": "Robert Darcy",
+    "Age": 41,
+    "Occupation": "Security guard",
+    "Hobbies/Interests": [
+      "watching crime documentaries",
+      "collecting vintage security equipment",
+      "bodybuilding"
+    ],
+    "Personality Facts": [
+      "Extremely observant and has a keen eye for detail",
+      "Strong physical presence and highly disciplined from years of training",
+      "Often overly suspicious and tends to invade personal boundaries"
+    ]
+  },
+  {
+    "Full Name": "Johnathan 'Big John' Moretti",
+    "Age": 38,
+    "Occupation": "Bouncer",
+    "Hobbies/Interests": [
+      "motorcycle maintenance",
+      "weightlifting",
+      "cooking italian cuisine"
+    ],
+    "Personality Facts": [
+      "Extremely loyal and protective of his friends and family.",
+      "Has a surprising finesse in the kitchen, especially with traditional Italian recipes.",
+      "Has a quick temper and can be confrontational when provoked."
+    ]
+  },
+  {
+    "Full Name": "Jonathan Martin",
+    "Age": 38,
+    "Occupation": "Airport security agent",
+    "Hobbies/Interests": [
+      "photography",
+      "hiking",
+      "reading crime and mystery novels"
+    ],
+    "Personality Facts": [
+      "Jonathan is highly observant and has a keen eye for detail, which makes him excellent at his job.",
+      "He is dedicated and takes his responsibilities very seriously, often going above and beyond to ensure safety.",
+      "He can be overly suspicious and intrusive, sometimes crossing boundaries in his quest for security and safety."
+    ]
+  },
+  {
+    "Full Name": "James Richard Kemp",
+    "Age": 35,
+    "Occupation": "Farm Labourer",
+    "Hobbies/Interests": [
+      "fishing",
+      "playing harmonica",
+      "collecting antique tools"
+    ],
+    "Personality Facts": [
+      "Has a strong work ethic and is very committed to his work",
+      "Has a great sense of humor and knows how to lighten the mood",
+      "Can be quite stubborn and resistant to change"
+    ]
+  },
+  {
+    "Full Name": "Jeffrey Nolan",
+    "Age": 35,
+    "Occupation": "Packaging operator",
+    "Hobbies/Interests": [
+      "playing chess",
+      "collecting vintage comic books",
+      "hiking"
+    ],
+    "Personality Facts": [
+      "Jeffrey is a dedicated worker and always ensures the job is done perfectly",
+      "He is intellectually curious and loves solving complex puzzles",
+      "He can be manipulative at times, often bending rules to suit his needs"
+    ]
+  },
+  {
+    "Full Name": "Robert Dalton",
+    "Age": 47,
+    "Occupation": "Store keeper-clerk",
+    "Hobbies/Interests": [
+      "collecting vintage comic books",
+      "playing chess",
+      "hiking"
+    ],
+    "Personality Facts": [
+      "Robert is highly organized and pays great attention to detail, which helps him in his role as a store clerk",
+      "He is friendly and able to establish good rapport with customers",
+      "Robert can be overly suspicious and often assumes the worst in people"
+    ]
+  },
+  {
+    "Full Name": "Matthew Henderson",
+    "Age": 29,
+    "Occupation": "Post room assistant",
+    "Hobbies/Interests": [
+      "collecting vintage postage stamps",
+      "reading mystery novels",
+      "cycling"
+    ],
+    "Personality Facts": [
+      "Matthew is known for his attention to detail, which is critical for his role in sorting and delivering mail.",
+      "He has a good memory and can remember postal codes and addresses that he has only seen once.",
+      "Matthew can be overly secretive and suspicious, often reading into things more than necessary, a trait that is often amplified by his love for mystery novels."
+    ]
+  },
+  {
+    "Full Name": "Arthur Donovan",
+    "Age": 38,
+    "Occupation": "Mail sorter",
+    "Hobbies/Interests": [
+      "stamp collecting",
+      "classic literature",
+      "model trains"
+    ],
+    "Personality Facts": [
+      "Highly organized and pays great attention to detail",
+      "Polite and patient with customers and colleagues",
+      "Can be overly critical and judgmental"
+    ]
+  },
+  {
+    "Full Name": "Harold Greene",
+    "Age": 43,
+    "Occupation": "Postal delivery worker",
+    "Hobbies/Interests": [
+      "bird watching",
+      "hiking",
+      "collecting vintage stamps"
+    ],
+    "Personality Facts": [
+      "Harold is known for his dedication and punctuality, always delivering mail on time, regardless of the weather.",
+      "He is sociable and friendly, often engaging in small talk with the locals on his route.",
+      "Despite his friendly exterior, Harold has a dark side. He occasionally reads confidential letters without permission, prying into people's private lives."
+    ]
+  },
+  {
+    "Full Name": "Raymond Harper",
+    "Age": 40,
+    "Occupation": "Barista",
+    "Hobbies/Interests": [
+      "coffee tasting",
+      "cycling",
+      "poetry"
+    ],
+    "Personality Facts": [
+      "Detail-oriented and meticulous",
+      "Friendly and approachable",
+      "Can be a perfectionist"
+    ]
+  },
+  {
+    "Full Name": "Samuel Bennett",
+    "Age": 27,
+    "Occupation": "Hospital porter",
+    "Hobbies/Interests": [
+      "football",
+      "video games",
+      "comedy clubs"
+    ],
+    "Personality Facts": [
+      "Hardworking and dedicated",
+      "Has a good sense of humor",
+      "Can be too laid-back"
+    ]
+  },
+  {
+    "Full Name": "Preston Harold",
+    "Age": 24,
+    "Occupation": "Coffee shop assistant",
+    "Hobbies/Interests": [
+      "playing guitar",
+      "writing poetry",
+      "street art"
+    ],
+    "Personality Facts": [
+      "Preston is a creative soul with a knack for music and words.",
+      "He is always ready to lend a listening ear and provide a comforting cup of coffee.",
+      "Despite his friendly demeanor, he can be overly critical of himself and others, often pushing people away with his harsh words."
+    ]
+  },
+  {
+    "Full Name": "Nathaniel Greene",
+    "Age": 35,
+    "Occupation": "Forester",
+    "Hobbies/Interests": [
+      "bird watching",
+      "hiking",
+      "wood carving",
+      "nature photography"
+    ],
+    "Personality Facts": [
+      "Has a deep respect and love for nature and wildlife.",
+      "Very knowledgeable about plants, trees and forest ecology.",
+      "Can be neglectful of personal relationships due to his passion for his work."
+    ]
+  },
+  {
+    "Full Name": "Elliot Murphy",
+    "Age": 45,
+    "Occupation": "Recycling operative",
+    "Hobbies/Interests": [
+      "model train building",
+      "bird watching",
+      "collecting vintage records"
+    ],
+    "Personality Facts": [
+      "Elliot is extremely conscious about the environment, and practices minimal waste living.",
+      "He is a patient listener and is known for his problem-solving skills.",
+      "He can be obsessive about cleanliness and organization to the point where it affects his relationships."
+    ]
+  },
+  {
+    "Full Name": "Zoe Mitchell",
+    "Age": 22,
+    "Occupation": "Bartender",
+    "Hobbies/Interests": [
+      "mixology",
+      "reading",
+      "music"
+    ],
+    "Personality Facts": [
+      "Has a great sense of humor",
+      "Very sociable and outgoing",
+      "Can be a bit too blunt at times"
+    ]
+  },
+  {
+    "Full Name": "Ivy Allen",
+    "Age": 24,
+    "Occupation": "Barista",
+    "Hobbies/Interests": [
+      "painting",
+      "hiking",
+      "photography"
+    ],
+    "Personality Facts": [
+      "Very creative",
+      "Passionate about outdoor activities",
+      "Can be a bit disorganized"
+    ]
+  },
+  {
+    "Full Name": "Ryan Miller",
+    "Age": 24,
+    "Occupation": "Barista",
+    "Hobbies/Interests": [
+      "coffee tasting",
+      "painting",
+      "music"
+    ],
+    "Personality Facts": [
+      "Warm and friendly",
+      "Artistic and creative",
+      "Struggles with time management"
+    ]
+  },
+  {
+    "Full Name": "John O'Reilly",
+    "Age": 54,
+    "Occupation": "Retired Police Officer",
+    "Hobbies/Interests": [
+      "fishing",
+      "woodworking",
+      "mentoring youth"
+    ],
+    "Personality Facts": [
+      "Has a wealth of experience and wisdom to share",
+      "Extremely reliable and trustworthy",
+      "Can be a bit too traditional in his views"
+    ]
+  },
+  {
+    "Full Name": "Quinn Everett",
+    "Age": 60,
+    "Occupation": "Retired Nurse",
+    "Hobbies/Interests": [
+      "gardening",
+      "volunteering"
+    ],
+    "Personality Facts": [
+      "Compassionate",
+      "Patient",
+      "Struggles with modern technology"
+    ]
+  },
+  {
+    "Full Name": "Gregory Allen",
+    "Age": 55,
+    "Occupation": "Retired Military Officer",
+    "Hobbies/Interests": [
+      "fishing",
+      "golfing",
+      "volunteering"
+    ],
+    "Personality Facts": [
+      "Disciplined",
+      "Respectful of others",
+      "Struggles with adapting to civilian life"
+    ]
+  },
+  {
+    "Full Name": "Riley Thompson",
+    "Age": 40,
+    "Occupation": "Stay at Home Parent",
+    "Hobbies/Interests": [
+      "gardening",
+      "blogging",
+      "diy projects"
+    ],
+    "Personality Facts": [
+      "Resourceful",
+      "Empathetic",
+      "Sometimes feels isolated"
+    ]
+  },
+  {
+    "Full Name": "David Kim",
+    "Age": 22,
+    "Occupation": "College Student",
+    "Hobbies/Interests": [
+      "basketball",
+      "video games",
+      "traveling"
+    ],
+    "Personality Facts": [
+      "Energetic",
+      "Team player",
+      "Impulsive"
+    ]
+  },
+  {
+    "Full Name": "Xavier Reed",
+    "Age": 19,
+    "Occupation": "Engineering Student",
+    "Hobbies/Interests": [
+      "robotics",
+      "skateboarding",
+      "coding"
+    ],
+    "Personality Facts": [
+      "Innovative thinker",
+      "Eager to learn",
+      "Easily distracted"
+    ]
+  },
+  {
+    "Full Name": "Kylie Smith",
+    "Age": 18,
+    "Occupation": "High School Student",
+    "Hobbies/Interests": [
+      "soccer",
+      "social media",
+      "photography"
+    ],
+    "Personality Facts": [
+      "Energetic",
+      "Team player",
+      "Impatient"
+    ]
+  },
+  {
+    "Full Name": "Emma Johnson",
+    "Age": 22,
+    "Occupation": "Job Seeker",
+    "Hobbies/Interests": [
+      "blogging",
+      "learning languages",
+      "video games"
+    ],
+    "Personality Facts": [
+      "Adaptable",
+      "Eager to learn",
+      "Impatient with slow processes"
+    ]
+  },
+  {
+    "Full Name": "Amelia Martinez",
+    "Age": 20,
+    "Occupation": "Undergraduate Student",
+    "Hobbies/Interests": [
+      "dancing",
+      "watching documentaries",
+      "social activism"
+    ],
+    "Personality Facts": [
+      "Curious",
+      "Socially conscious",
+      "Can be overly idealistic"
+    ]
+  },
+  {
+    "Full Name": "Carmen Sanchez",
+    "Age": 24,
+    "Occupation": "Medical Student",
+    "Hobbies/Interests": [
+      "volunteering",
+      "baking",
+      "reading medical journals"
+    ],
+    "Personality Facts": [
+      "Empathetic",
+      "Hardworking",
+      "Sensitive to criticism"
+    ]
+  },
+  {
+    "Full Name": "Liam Johnson",
+    "Age": 19,
+    "Occupation": "University Student",
+    "Hobbies/Interests": [
+      "playing the guitar",
+      "video games",
+      "skateboarding"
+    ],
+    "Personality Facts": [
+      "Quick learner",
+      "Adventurous",
+      "Prone to procrastination"
+    ]
+  },
+  {
+    "Full Name": "Elena Soto",
+    "Age": 55,
+    "Occupation": "Stay at home mum",
+    "Hobbies/Interests": [
+      "knitting",
+      "reading history books",
+      "bird watching"
+    ],
+    "Personality Facts": [
+      "Patient",
+      "Nurturing",
+      "Sometimes overprotective"
+    ]
+  }
+]
