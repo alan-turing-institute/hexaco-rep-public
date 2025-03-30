@@ -2,8 +2,6 @@
 def calc_cronbachs_alpha(df):
     """
     Calculate the Cronbach's alpha for a given DataFrame.
-    :param df: DataFrame
-    :return: float
     """
     import pandas as pd
 
