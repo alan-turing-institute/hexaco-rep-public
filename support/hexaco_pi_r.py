@@ -190,7 +190,7 @@ def calc_mean_sd_alpha(df_scores, scoring, own_alpha=True):
     """
     import pandas as pd
     if own_alpha:
-        from cronbach_alpha import calc_cronbachs_alpha
+        from support.cronbach_alpha import calc_cronbachs_alpha
     else:
         from pingouin import cronbach_alpha as calc_cronbachs_alpha
 
