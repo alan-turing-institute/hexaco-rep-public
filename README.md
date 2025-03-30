@@ -3,11 +3,8 @@
 <center>Large Language Models and their role within Social
 Science: recreating the HEXACO Personality Inventory
 experiment with Generative Agents</center>
-<br>
 
----
-
-<br>
+## &nbsp;
 
 Public repository for data and code associated with [Hexaco &amp; GenAgents Paper](pdf.pdf).
 
