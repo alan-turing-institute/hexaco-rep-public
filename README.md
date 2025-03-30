@@ -6,10 +6,14 @@ Public repository for data and code associated with [Hexaco &amp; GenAgents Pape
 
 ### Results:
 
+Lexical Analysis:
 * [PopCensus 5-Factor Solution](popCensus_5Factor.ipynb)
 * [PopCensus 6-Factor Solution](popCensus_6Factor.ipynb)
 * [PopCensus 10-Factor Solution](popCensus_10Factor.ipynb)
 * [PopProfessional 8-Factor Solution](popProfessional_8Factor.ipynb)
+
+HEXACO-PI-R 100:
+* [Survey results using GPT-4 & Llama-3.2](hexaco_pir_results.ipynb)
 
 ### Data Files:
 
