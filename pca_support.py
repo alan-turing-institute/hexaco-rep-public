@@ -1,5 +1,5 @@
 
-def perform_pca(ipsatized_file, n_factors):
+def perform_pca(ipsatized_file, n_factors, cache_file_name=None):
     """
     Call out to R to perform PCA on the ipsatized file.
 
@@ -8,7 +8,7 @@ def perform_pca(ipsatized_file, n_factors):
     :return: File name of the loadings file.
     """
     import subprocess
-    from os.path import join
+    from os.path import join, exists
     from _private import r_binary_folder, r_script_folder
 
     subprocess.call([r_binary_folder,
@@ -17,6 +17,11 @@ def perform_pca(ipsatized_file, n_factors):
                      ipsatized_file,
                      str(n_factors),
                      "promax"])
+
+    if exists('r_loadings.csv') and cache_file_name:
+        from shutil import copy
+        copy('r_loadings.csv', cache_file_name)
+        return cache_file_name
 
     return 'r_loadings.csv'
 
