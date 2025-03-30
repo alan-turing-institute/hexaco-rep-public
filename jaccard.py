@@ -31,7 +31,8 @@ def weighted_jaccard_similarity(factor_details, dimension_details):
     j_sum = sum([j_pospos, j_negneg, j_posneg, j_negpos]) / 2
 
     if aligned_sum != 0 and unaligned_sum != 0:
-        print("*** error! (remove this when it hits!)")
+        # this happens for popProfessional's Factor 5, a term appears in both
+        # factor and dimension, but with different signs.
         j_sum = max(aligned_sum, unaligned_sum) / 2
 
     return j_sum
