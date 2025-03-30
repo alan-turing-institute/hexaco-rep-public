@@ -15,8 +15,12 @@ cat("Args: input_file=", input_file, ", n_factors=", n_factors, ", rotation_meth
 library(readr)
 library(psych)
 
+
+oldw <- getOption("warn")
+options(warn = -2)
+
 # read in data from arg-file
-df <- read_csv(input_file)
+df <- read_csv(input_file, show_col_types = FALSE, name_repair = "unique_quiet")
 
 # remove the names column.
 df$`...1` <- NULL 
@@ -29,6 +33,8 @@ df <- df[,apply(df, 2, function(x) sd(x) != 0)]
 
 # call pca
 p <- pca(df, nfactors=n_factors, rotate=rotation_method, cor="cov") 
+
+options(warn = oldw)
 
 # save results.
 write.csv(p$loadings, 'loadings.csv')
