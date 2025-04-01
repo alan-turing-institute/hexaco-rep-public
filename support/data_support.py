@@ -11,12 +11,12 @@ def fix_name(x):
     return x.replace(' ', '').split('.')[0]
 
 
-def load_hexaco_data():
+def load_hexaco_data(loadings_file='hexaco_loadings.csv'):
     """
-    Load the HEXACO data as presente in the 2004 paper.
+    Load the HEXACO data as presented in the 2004 paper.
     """
     import pandas as pd
-    loadings = pd.read_csv("hexaco_loadings.csv")
+    loadings = pd.read_csv(loadings_file)
     loadings.columns = ['Agreeableness', 'a-loadings',
                         'Extraversion', 'x-loadings',
                         'Conscientiousness', 'c-loadings',
