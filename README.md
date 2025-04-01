@@ -1,8 +1,8 @@
 #  Large Language Models and their role within Social Science: recreating the HEXACO Personality Inventory experiment with Generative Agents
 
-[![DOI](pdf.pdf)](pdf.pdf)
+<!--[![DOI](pdf.pdf)](pdf.pdf) -->
 
-Public repository for data and code associated with [Hexaco &amp; GenAgents Paper](pdf.pdf).
+Public repository for data and code associated with [Hexaco &amp; GenAgents Paper]().
 
 by [Sarah Mercer](drsezzer.github.io).
 
@@ -49,6 +49,16 @@ HEXACO-PI-R 100:
 
 * <b>data/hexaco-pi-r-responses-llama.csv</b> - responses from HEXACO-PI-R 100 survey (PopCensus), generated with Llama-3.2. <br>
 <i>Note: Llama refused to give a response for question 98 ('It wouldn't bother me to harm someone I didn't like.') 85 times (response=='[content-filtered]').  This question is part of the Altruism facet, which is not included in 6 main dimensions.</i>
+
+## Installation Notes
+
+Python packages pandas and gensim are required to run these notebooks.  
+
+PCA is conducted using 'R', create a _private.py file in the support subdirectory that contains the following definition:
+
+> r_binary_folder = '[your path to]/bin/Rscript'
+
+This project expects to find the [FastText](https://fasttext.cc/docs/en/crawl-vectors.html) model (cc.en.300.vec) in a subfolder called 'model_data'.
 
 ## License
 

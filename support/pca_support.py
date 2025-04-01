@@ -5,11 +5,11 @@ def perform_pca(ipsatized_file, n_factors, cache_file_name=None):
     """
     import subprocess
     from os.path import join, exists
-    from support._private import r_binary_folder, r_script_folder
+    from support._private import r_binary_folder
 
     subprocess.call([r_binary_folder,
                      "--vanilla",
-                     join(r_script_folder, "PCA.R"),
+                     "support/PCA.R",
                      ipsatized_file,
                      str(n_factors),
                      "promax"])
