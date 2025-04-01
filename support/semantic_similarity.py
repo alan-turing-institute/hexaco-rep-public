@@ -1,16 +1,11 @@
 
-def load_embedding_model():
+def load_embedding_model(fasttext_path="model_data/cc.en.300.vec"):
     """
     Load FastText
     """
     from gensim.models import KeyedVectors
-
-    def load_model_fasttext():
-        fasttext_path = "model_data/cc.en.300.vec"
-        model = KeyedVectors.load_word2vec_format(fasttext_path, binary=False)
-        return model
-
-    return load_model_fasttext()
+    model = KeyedVectors.load_word2vec_format(fasttext_path, binary=False)
+    return model
 
 
 def compute_similarity(my_terms, model):
@@ -58,3 +53,4 @@ def compute_similarity_between_sets(my_terms, original_terms, model):
 
     average_similarity = (max_sim_A_to_B + max_sim_B_to_A) / 2
     return average_similarity
+
