@@ -13,10 +13,10 @@ by [Sarah Mercer](drsezzer.github.io).
 Lexical Analysis:
 
 The following notebooks contain code to perform PCA and present the resulting factors.  Additionally, cronbach alpha's, jaccard coefficients (with original hexaco findings) are presented.  Alongside, semantic similiarity score for the terms within in factor, and the factors against hexaco dimensions.
-* [PopCensus 5-Factor Solution](popCensus_5Factor.ipynb)
-* [PopCensus 6-Factor Solution](popCensus_6Factor.ipynb)
-* [PopCensus 10-Factor Solution](popCensus_10Factor.ipynb)
-* [PopProfessional 8-Factor Solution](popProfessional_8Factor.ipynb)
+* [PopCensus 5-Factor Solution](PopCensus-5Factor-Results.ipynb)
+* [PopCensus 6-Factor Solution](PopCensus-6Factor-Results.ipynb)
+* [PopCensus 10-Factor Solution](PopCensus-10Factor-Results.ipynb)
+* [PopProfessional 8-Factor Solution](PopProfessional-8Factor-Results.ipynb)
 
 HEXACO-PI-R 100:
 * [Survey results using GPT-4 & Llama-3.2](hexaco_pir_results.ipynb)
@@ -27,17 +27,21 @@ PopCensus:
 
 * [data/pop_census.json](data/pop_census.json) - contains all the character biographies for PopCensus.  Use data_support.fix_name() to translate 'Full Name' to index in results and ipsatised_results files.
 
-* <b>data/popc_results.csv</b> - contains scores from hexaco lexical analysis survey.  Columns are adjectives, indexed by names (via fix_name()).
+* <b>data/popc_responses_file*.csv</b> - batches of agent responses (under 50MB each).
 
-* <b>data/popc_ipsatised_results.csv</b> - contains ipsatised scores from survey.  Columns are adjectives, indexed by names (via fix_name()).  
+* <b>data/popc_results.csv</b> - contains scores from hexaco lexical analysis survey.  Columns are adjectives, indexed by names (via fix_name()). *
+
+* <b>data/popc_ipsatised_results.csv</b> - contains ipsatised scores from survey.  Columns are adjectives, indexed by names (via fix_name()). *
 
 PopProfessional:
 
 * [data/pop_professional.json](data/pop_professional.json) - contains all the character biographies for PopProfessional.  Use data_support.fix_name() to translate 'Full Name' to index in results and ipsatised_results files.
 
-* <b>data/popp_results.csv</b> - contains scores from hexaco lexical analysis survey, for PopProfessional.  Columns are adjectives, indexed by names (via fix_name()).
+* <b>data/popp_results.csv</b> - contains scores from hexaco lexical analysis survey, for PopProfessional.  Columns are adjectives, indexed by names (via fix_name()). *
 
-* <b>data/popp_ipsatised_results.csv</b> - contains ipsatised scores from survey, for PopProfessional.  Columns are adjectives, indexed by names (via fix_name()).
+* <b>data/popp_ipsatised_results.csv</b> - contains ipsatised scores from survey, for PopProfessional.  Columns are adjectives, indexed by names (via fix_name()). *
+
+(*) can be generated from agent responses, using data/data_prep.ipynb.
 
 Lexical Analysis Support:
 
