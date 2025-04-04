@@ -2,7 +2,7 @@
 
 <!--[![DOI](pdf.pdf)](pdf.pdf) -->
 
-Public repository for data and code associated with [Hexaco &amp; GenAgents Paper]().
+Public repository for data and code associated with [Hexaco &amp; GenAgents Paper (draft v0.2)](Hexaco-25-04-04.pdf).
 
 by [Sarah Mercer](drsezzer.github.io).
 
@@ -66,7 +66,7 @@ This project expects to find the [FastText](https://fasttext.cc/docs/en/crawl-ve
 
 ## License
 
-Data and Code released under MIT License.  Please cite our [research]() if you use either in your work.
+Data and Code released under MIT License.  Please cite our [research](http://arxiv.org/) if you use either in your work.
 
 ## Notes
 
