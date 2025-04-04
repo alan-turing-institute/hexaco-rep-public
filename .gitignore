@@ -1,0 +1,6 @@
+.DS_Store/
+.venv/
+_*
+~*
+model_data/
+loadings.csv
