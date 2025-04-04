@@ -9,7 +9,7 @@ if (length(args) < 3) {
 input_file <- args[1]
 n_factors <- as.numeric(args[2])
 rotation_method <- args[3]
-cat("Args: input_file=", input_file, ", n_factors=", n_factors, ", rotation_method", rotation_method, "\n")
+cat("Args: input_file = ", input_file, "n_factors =", n_factors, "rotation_method =", rotation_method, "\n")
 
 # load required packages
 library(readr)
