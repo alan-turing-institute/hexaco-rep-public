@@ -15,7 +15,6 @@ cat("Args: input_file=", input_file, ", n_factors=", n_factors, ", rotation_meth
 library(readr)
 library(psych)
 
-
 oldw <- getOption("warn")
 options(warn = -2)
 
