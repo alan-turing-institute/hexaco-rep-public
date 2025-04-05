@@ -1,8 +1,12 @@
 
-def calc_cronbachs_alpha(df):
+def calc_cronbachs_alpha(df, use_library=False):
     """
     Calculate the Cronbach's alpha for a given DataFrame.
     """
+    if use_library:
+        from pingouin import cronbach_alpha
+        return float(cronbach_alpha(df)[0])
+
     import pandas as pd
 
     k = len(df.columns)

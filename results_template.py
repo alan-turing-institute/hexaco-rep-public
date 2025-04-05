@@ -36,7 +36,7 @@ def report_cronbach_alphas(highest_loadings, ipsatised_data):
     for dim in highest_loadings:
         cols = highest_loadings[dim]
         df_ = ipsatised_data[cols.index]
-        alpha = cronbach_alpha(df_)
+        alpha = cronbach_alpha(df_, use_library=True)
         alphas.append(alpha)
     print("Cronbach's Alpha: "+", ".join([f"{x:.2f}" for x in alphas]))
     return alphas
