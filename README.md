@@ -1,4 +1,4 @@
-#  Large Language Models and their role within Social Science: recreating the HEXACO Personality Inventory experiment with Generative Agents
+#  Applying Psychometrics to Large Language Model Simulated Populations: Recreating the HEXACO Personality Inventory Experiment with Generative Agents
 
 <!--[![DOI](pdf.pdf)](pdf.pdf) -->
 
