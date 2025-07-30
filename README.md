@@ -62,6 +62,13 @@ PCA is conducted using 'R', create a _private.py file in the support subdirector
 
 > r_binary_folder = '[your path to]/bin/Rscript'
 
+Ensure 'psych' and 'readr' are installed in your R environment:
+
+``` 
+install.packages("tidyverse")
+install.packages("psych")
+```
+
 This project expects to find the [FastText](https://fasttext.cc/docs/en/crawl-vectors.html) model (cc.en.300.vec) in a subfolder called 'model_data'.
 
 ## License

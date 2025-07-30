@@ -1,4 +1,3 @@
-#!/usr/local/bin/Rscript --vanilla
 
 args <- commandArgs(trailingOnly = TRUE)
 if (length(args) < 3) {
