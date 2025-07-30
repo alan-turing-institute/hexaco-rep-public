@@ -85,7 +85,7 @@ def generate_results(n_factors,
     from support.data_support import load_hexaco_data
     from support.semantic_similarity import load_embedding_model
 
-    display(Markdown(f"## PC & Results for {population_name}'s {n_factors} Solution."))
+    display(Markdown(f"## Performing PCA & displaying results for {population_name}'s {n_factors} solution."))
 
     ipsatised_data, ldgs = setup(n_factors, data_file, intermediate_file)
     hldgs, agent_data = display_highest_loadings(ldgs, factor_labels)
