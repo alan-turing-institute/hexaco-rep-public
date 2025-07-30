@@ -13,7 +13,7 @@ def fix_name(x):
 
 def load_hexaco_data(loadings_file='hexaco_loadings.csv'):
     """
-    Load the HEXACO data as presented in the 2004 paper.
+    Load the HEXACO data as presented in the 2004 paper, table 2.
     """
     import pandas as pd
     loadings = pd.read_csv(loadings_file)
