@@ -130,6 +130,17 @@ total_stdevs = [.62, .62, .57, .58, .56, .60]
 # women_stdevs = [.59, .48, .59, .55, .53, .58]
 
 
+def load_responses(file):
+    """
+    Load the responses from a CSV file and convert them to scores.
+    """
+    import pandas as pd
+    from support.hexaco_pi_r import responses_to_scores, scoring
+    _df = pd.read_csv(file, index_col=0)
+    _df.columns = range(len(_df.columns))
+    scores_df = responses_to_scores(_df, scoring)
+    return scores_df
+
 def responses_to_scores(responses, scoring):
     """
     Used to transform the string responses to numerical scores.
@@ -204,7 +215,6 @@ def calc_mean_sd_alpha(df_scores, scoring, own_alpha=True):
         _df.loc[dim] = [df_dim.mean().mean(), df_dim.std().mean(), alpha]
     return _df
 
-
 def plot(df_stats, title):
     """
     plot the average scores of the agents against the human average scores.
@@ -243,3 +253,13 @@ def plot(df_stats, title):
     plt.title(title, size=20, color='black', y=1.1)
     ax.legend(loc='right', bbox_to_anchor=(1.2, 0.1), fontsize=10)
     plt.show()
+
+def process_pir(model_label, file):
+    import pandas as pd
+    from IPython.display import display, Markdown
+    display(Markdown(f"### Processing {model_label} responses from {file}"))
+    scores_df = load_responses(file)
+    df_stats = calc_mean_sd_alpha(scores_df, scoring, own_alpha=False)
+    pd.options.display.float_format = "{:,.4f}".format
+    display(df_stats)
+    plot(df_stats, f'Agents({model_label}) vs Human HEXACO-PI-R 100 Scores')
