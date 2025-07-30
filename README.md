@@ -51,8 +51,12 @@ HEXACO-PI-R 100:
 
 * <b>data/hexaco-pi-r-responses-gpt4.csv</b> - responses from HEXACO-PI-R 100 survey (PopCensus), generated with GPT-4.
 
-* <b>data/hexaco-pi-r-responses-llama.csv</b> - responses from HEXACO-PI-R 100 survey (PopCensus), generated with Llama-3.2. <br>
+* <b>data/hexaco-pi-r-responses-llama.csv</b> - responses from HEXACO-PI-R 100 survey (PopCensus), generated with Llama-3.2 (via Ollama). <br>
 <i>Note: Llama refused to give a response for question 98 ('It wouldn't bother me to harm someone I didn't like.') 85 times (response=='[content-filtered]').  This question is part of the Altruism facet, which is not included in 6 main dimensions.</i>
+
+* <b>data/hexaco-pi-r-responses-sonnet.csv</b> - responses from HEXACO-PI-R 100 survey (PopCensus), generated with Claude Sonnet 3.7. <br>
+
+* <b>data/hexaco-pi-r-responses-phi4.csv</b> - responses from HEXACO-PI-R 100 survey (PopCensus), generated with Microsoft's Phi4 (7Bn, via Ollama). <br>
 
 ## Installation Notes
 
