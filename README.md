@@ -2,7 +2,7 @@
 
 <!--[![DOI](pdf.pdf)](pdf.pdf) -->
 
-Public repository for data and code associated with [Hexaco &amp; GenAgents Paper (draft v0.2)](Hexaco-25-04-04.pdf).
+Public repository for data and code associated with [Hexaco &amp; GenAgents Paper (draft v0.2)](Hexaco.pdf).
 
 by [Sarah Mercer](drsezzer.github.io).
 
