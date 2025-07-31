@@ -58,6 +58,14 @@ HEXACO-PI-R 100:
 
 * <b>data/hexaco-pi-r-responses-phi4.csv</b> - responses from HEXACO-PI-R 100 survey (PopCensus), generated with Microsoft's Phi4 (14Bn, via Ollama). <br>
 
+---
+
+### Supporting code
+
+* [Figure 1, Figure 11](Fig1-Occupations.ipynb) - population broken down by OSC2020 Occupation codes, and plotted against census data (England & Wales 2020).
+
+* [Figure 14](Fig14-BiographyLengths.ipynb) - plot of agent consistency vs biography length (for PopCensus).
+
 ## Installation Notes
 
 Python packages pandas and gensim are required to run these notebooks.  
