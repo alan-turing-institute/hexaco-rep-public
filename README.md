@@ -19,7 +19,7 @@ The following notebooks contain code to perform PCA and present the resulting fa
 * [PopProfessional 8-Factor Solution](PopProfessional-8Factor-Results.ipynb)
 
 HEXACO-PI-R 100:
-* [Survey results using GPT-4 & Llama-3.2](hexaco_pi_r.ipynb)
+* [Survey results using GPT-4, Llama-3.2, Sonnet 3.7 and Phi-4](hexaco_pi_r.ipynb)
 
 ### Data Files:
 
