@@ -66,6 +66,8 @@ HEXACO-PI-R 100:
 
 * [Figure 2](Fig2-ScreePlot.ipynb) - Scree plot of unrotated eigenvalues (pop census).
 
+* [Figure 3](Fig3-SolutionCronbachs.ipynb) - Heatmap of Cronbach's alphas for each factor in all solutions.
+
 * [Figure 14](Fig14-BiographyLengths.ipynb) - plot of agent consistency vs biography length (for PopCensus).
 
 ## Installation Notes
