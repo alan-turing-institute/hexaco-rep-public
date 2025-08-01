@@ -27,12 +27,13 @@ def oc_top_level(oc):
         print(f"Error: {oc} at")
         return 0
 
-def plot_against_ONS_top_level_percentages(df, colour=None):
+def plot_against_ONS_top_level_percentages(df):
     """
     Pretty looking plot of the top-level occupation codes against the ONS Census 2021 percentages.
     """
     import matplotlib.pyplot as plt
     import pandas as pd
+    import seaborn as sns
 
     ocs = df['OC'].apply(oc_top_level)
     df_counts = pd.DataFrame(ocs.value_counts().rename('Count'))
@@ -45,26 +46,27 @@ def plot_against_ONS_top_level_percentages(df, colour=None):
     df_counts.drop(df_counts.index[df_counts.index <= 0], axis=0, inplace=True)
     df_counts = df_counts.sort_index(ascending=False)
 
-    colormap = plt.colormaps.get_cmap('tab20b')
-
     english_percent = [12.9, 20.3, 13.3, 9.3, 10.2, 9.3, 7.5, 6.9, 10.5]
     english_percent.reverse()
     welsh_percent = [10.5, 18.2, 11.8, 9.4, 12.2, 11.2, 8.4, 7.9, 10.5]
     welsh_percent.reverse()
 
-    fig, ax = plt.subplots()
-    if not colour:
-        colour = colormap.colors[16]
-    ax.barh(y=df_counts.index-0.3, height=0.3, width=df_counts['Percentage'], color=colour, alpha=0.7, label=f'Agent Population ({len(ocs)})')
-    ax.barh(y=df_counts.index, height=0.3, width=english_percent, color=colormap.colors[2], alpha=0.7, label=f'Census, 2021, England')
-    ax.barh(y=df_counts.index+0.3, height=0.3, width=welsh_percent, color=colormap.colors[3], alpha=0.7, label=f'Census, 2021, Wales')
+    colormap = sns.color_palette("tab20", n_colors=20)
+    textsize = 8
+
+    sns.set_theme(style='white', font='Times New Roman')
+    
+    fig, ax = plt.subplots(figsize=(4, 3))
+    ax.barh(y=df_counts.index-0.3, height=0.3, width=df_counts['Percentage'], color=colormap[4], alpha=0.7, label=f'Agent Population ({len(ocs)})')
+    ax.barh(y=df_counts.index, height=0.3, width=english_percent, color=colormap[0], alpha=0.7, label=f'Census, 2021, England')
+    ax.barh(y=df_counts.index+0.3, height=0.3, width=welsh_percent, color=colormap[1], alpha=0.7, label=f'Census, 2021, Wales')
 
     plt.xticks(fontsize=8)
-    plt.xlabel('Percentage (%)')
+    plt.xlabel('Percentage (%)', fontsize=textsize)
     plt.yticks(df_counts.index, [top_levels_labels[x] for x in df_counts.index], fontsize=8)
-    plt.ylabel('Occupation Code')
+    plt.ylabel('Occupation Code', fontsize=textsize)
     ax.invert_yaxis()
-    plt.legend(loc='lower right', fontsize=9)
+    plt.legend(loc='lower right', fontsize=textsize, ncol=1)
     plt.show()
     
 def plot(df_pop):
@@ -73,4 +75,4 @@ def plot(df_pop):
     """
     df_employed = df_pop.copy()
     df_employed = df_employed.drop(df_employed[df_employed['OC'] <= 0].index)
-    plot_against_ONS_top_level_percentages(df_employed, colour='skyblue')
+    plot_against_ONS_top_level_percentages(df_employed)
