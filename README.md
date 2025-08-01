@@ -64,6 +64,8 @@ HEXACO-PI-R 100:
 
 * [Figure 1, Figure 11](Fig1-Occupations.ipynb) - population broken down by OSC2020 Occupation codes, and plotted against census data (England & Wales 2020).
 
+* [Figure 2](Fig2-ScreePlot.ipynb) - Scree plot of unrotated eigenvalues (pop census).
+
 * [Figure 14](Fig14-BiographyLengths.ipynb) - plot of agent consistency vs biography length (for PopCensus).
 
 ## Installation Notes
