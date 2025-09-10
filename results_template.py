@@ -81,6 +81,7 @@ def generate_results(n_factors,
                      data_file,
                      intermediate_file,
                      factor_labels):
+    from os.path import exists
     from support.plots import plot_jaccards, plot_internal_sims, plot_hexaco_sims
     from support.data_support import load_hexaco_data
     from support.semantic_similarity import load_embedding_model
@@ -97,12 +98,20 @@ def generate_results(n_factors,
     display(Markdown("### Weighted Jaccards Similarity:"))
     hexaco_data = load_hexaco_data()
     jaccards = report_jaccards(agent_data, hexaco_data)
-    solution_name = 'Promax 5 factors for PopCensus'
+    display(HTML(jaccards.to_html()))
+    solution_name = f'Promax {n_factors} factors for PopCensus'
     plot_jaccards(solution_name, jaccards)
 
     display(Markdown("### Semantic Similarity (between terms within factors):"))
-    model = load_embedding_model()
-    int_sims = report_internal_semantic_similarity(hldgs, factor_labels, model)
+    model = None  # loading the model takes a while, only load if needed.
+    
+    filename = f'intermediate/internal_sims_{population_name}_{n_factors}.csv'
+    if not exists(filename):
+        model = load_embedding_model()
+        int_sims = report_internal_semantic_similarity(hldgs, factor_labels, model)
+        int_sims.to_csv(filename)
+    else:
+        int_sims = pd.read_csv(filename, index_col=0)
 
     # add mean and stdev for random adjectives
     # (see random_similarity.ipynb)
@@ -110,16 +119,26 @@ def generate_results(n_factors,
 
     # add mean and stdev(always 0) for hexaco dimensions
     # (see hexaco_similarity.ipynb)
-    int_sims.loc['Agreeableness'] = [0.545, 0]
+    int_sims.loc['Agreeableness'] = [0.516, 0]
     int_sims.loc['Extraversion'] = [0.462, 0]
     int_sims.loc['Conscientiousness'] = [0.474, 0]
     int_sims.loc['Emotionality'] = [0.523, 0]
     int_sims.loc['Openness'] = [0.489, 0]
-    int_sims.loc['Honesty-Humility'] = [0.492, 0]
+    int_sims.loc['Honesty-Humility'] = [0.458, 0]
 
     plot_internal_sims(int_sims, n_factors)
 
     display(Markdown("### Semantic Similarity with Hexaco dimensions:"))
-    hexaco_sims = report_semantic_similarity_with_hexaco(hexaco_data, hldgs, model)
+    filename = f'intermediate/dim_sims_{population_name}_{n_factors}_2.csv'
+    if not exists(filename):
+        if not model:
+            model = load_embedding_model()
+        hexaco_sims = report_semantic_similarity_with_hexaco(hexaco_data, hldgs, model)
+        hexaco_sims.to_csv(filename)
+    else:
+        hexaco_sims = pd.read_csv(filename, index_col=0)
+        
     display(HTML(hexaco_sims.to_html()))
     plot_hexaco_sims(hexaco_sims)
+    
+    return int_sims, hexaco_sims
