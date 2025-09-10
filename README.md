@@ -1,10 +1,11 @@
 #  Applying Psychometrics to Large Language Model Simulated Populations: Recreating the HEXACO Personality Inventory Experiment with Generative Agents
 
-<!--[![DOI](pdf.pdf)](pdf.pdf) -->
 
-Public repository for data and code associated with [Paper (draft 31-07-2025)](Hexaco.pdf).
+## Abstract: 
 
-by [Sarah Mercer](drsezzer.github.io).
+Generative agents powered by Large Language Models demonstrate human-like characteristics through sophisticated natural language interactions. Their ability to assume roles and personalities based on predefined character biographies has positioned them as cost-effective substitutes for human participants in social science research. This paper explores the validity of such persona-based agents in representing human populations; we recreate the HEXACO personality inventory experiment by surveying 310 GPT-4 powered agents, conducting factor analysis on their responses, and comparing these results to the original findings presented by Ashton, Lee, & Goldberg in 2004. Our results found 1) a coherent and reliable personality structure was recoverable from the agents' responses demonstrating partial alignment to the HEXACO framework. 2) the derived personality dimensions were consistent and reliable within GPT-4, when coupled with a sufficiently curated population, and 3) cross-model analysis revealed variability in personality profiling, suggesting model-specific biases and limitations. We discuss the practical considerations and challenges encountered during the experiment. This study contributes to the ongoing discourse on the potential benefits and limitations of using generative agents in social science research and provides useful guidance on designing consistent and representative agent personas to maximise coverage and representation of human personality traits.
+
+Public repository for data and code associated with our paper: [arXiv](https://arxiv.org/abs/2508.00742), by [Sarah Mercer](drsezzer.github.io).
 
 ## Project Navigation:
 
@@ -15,8 +16,8 @@ Lexical Analysis:
 The following notebooks contain code to perform PCA and present the resulting factors.  Additionally, cronbach alpha's, jaccard coefficients (with original hexaco findings) are presented.  Alongside, semantic similiarity score for the terms within in factor, and the factors against hexaco dimensions.
 * [PopCensus 5-Factor Solution](PopCensus-5Factor-Results.ipynb)
 * [PopCensus 6-Factor Solution](PopCensus-6Factor-Results.ipynb)
-* [PopCensus 10-Factor Solution](PopCensus-10Factor-Results.ipynb)
-* [PopProfessional 8-Factor Solution](PopProfessional-8Factor-Results.ipynb)
+* [PopCensus 10-Factor Solution](PopCensus-10Factor-Results.ipynb) (including Fig. 4 and Fig. 5).
+* [PopProfessional 8-Factor Solution](PopProfessional-8Factor-Results.ipynb) (including Fig. 12).
 
 HEXACO-PI-R 100:
 * [Survey results using GPT-4, Llama-3.2, Sonnet 3.7 and Phi-4](hexaco_pi_r.ipynb)
@@ -67,6 +68,10 @@ HEXACO-PI-R 100:
 * [Figure 2](Fig2-ScreePlot.ipynb) - Scree plot of unrotated eigenvalues (pop census).
 
 * [Figure 3](Fig3-SolutionCronbachs.ipynb) - Heatmap of Cronbach's alphas for each factor in all solutions.
+
+* [Figure 6](Fig6-ConvergentValidity.ipynb) - Heatmap of correlation between agents' survey responses and their PIR-100 results.
+
+* [Figure 13](Fig13-SolutionSimilarity.ipynb) - Heatmap of correlation between PopCensus' 10 factors and PopProfessional's 8 factors.
 
 * [Figure 14](Fig14-BiographyLengths.ipynb) - plot of agent consistency vs biography length (for PopCensus).
 
