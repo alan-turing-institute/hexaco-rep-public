@@ -54,3 +54,29 @@ def compute_similarity_between_sets(my_terms, original_terms, model):
     average_similarity = (max_sim_A_to_B + max_sim_B_to_A) / 2
     return average_similarity
 
+
+def compare_solutions(file_a, labels_a, file_b, labels_b, model):
+    """
+    Compare two solutions from CSV files, used by Figure13.
+    """
+    import pandas as pd
+    from support.pca_support import get_highest_loadings
+
+    solution_a = pd.read_csv(file_a, index_col=0)
+    solution_a.columns = labels_a
+    terms_a, _ = get_highest_loadings(30, solution_a)
+
+    solution_b = pd.read_csv(file_b, index_col=0)
+    solution_b.columns = labels_b
+    terms_b, _ = get_highest_loadings(30, solution_b)
+
+    df = pd.DataFrame(columns=terms_a.keys(), index=terms_b.keys())
+
+    for h in terms_a:
+        for m in terms_b:
+            sim = compute_similarity_between_sets(list(terms_a[h].index), 
+                                                  list(terms_b[m].index), 
+                                                  model)
+            df.loc[m, h] = sim
+
+    return df
