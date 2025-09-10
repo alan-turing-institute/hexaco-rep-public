@@ -39,3 +39,13 @@ def get_highest_loadings(top_n, loadings_df):
         pp[factor] = [f"{x}({loadings_df[factor][x]:.2f})" for x in top_absolute.index]
 
     return highest_loadings, pp
+
+
+popc_10_factor_labels = ['Dishonesty', 'Disagreeableness', 'Introversion', 
+                         'Unconscientiousness', 'Unheroic', 'Unscholarly', 
+                         'Gendered-emotionality', 'Unsentimentality', 
+                         'Insensitivity', 'Unartistic']
+
+popp_8_factor_labels = ['Unconscientiousness', 'Introversion', 'Unconciliatory', 
+                        'Conventional', 'Extravagant', 'Emotionality', 'Heroic', 
+                        'Unscholarly']
