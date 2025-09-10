@@ -195,6 +195,32 @@ def calc_dimension_scores(df_scores, scoring):
     return _df
 
 
+def get_pir_scores(file, verbose=False):
+    """
+    Reads in the HEXACO-PI-R scores from a CSV file and returns the scores.
+    """
+    import pandas as pd
+    
+    # now load in the scores from the HEXACO-PI-R 100 survey.
+    from support.hexaco_pi_r import responses_to_scores, scoring, calc_dimension_scores
+    df = pd.read_csv(file, index_col=0)
+    if verbose:
+        print(f"Read in {len(df)} sets of survey responses (questions={df.shape[1]}), from {file}.")
+    
+    # bit of a fudge to fix names that contain a '.'
+    df.rename(index={'CalebJThompson':'CalebJ'}, inplace=True)
+    df.rename(index={'JohnathonKRiley':'JohnathonK'}, inplace=True)
+    df.rename(index={'VioletBRichmond':'VioletB'}, inplace=True)
+    df.columns = range(len(df.columns))
+
+    # map text responses to score, using scoring mechanism (includes reverse scoring)
+    df_scores = responses_to_scores(df, scoring)
+
+    # then figure out a score for each dimension for each agent.
+    df_pir_scores = calc_dimension_scores(df_scores, scoring)
+    return df_pir_scores
+
+
 def calc_mean_sd_alpha(df_scores, scoring, own_alpha=True):
     """
     calculate mean, standard deviation and cronbach's alpha for each dimension.
