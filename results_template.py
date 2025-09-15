@@ -5,10 +5,13 @@ import numpy as np
 
 
 def setup(n_factors, data_file, intermediate_file):
+    from os.path import exists
     from support.pca_support import perform_pca
+
     ipsatised_data = pd.read_csv(data_file, index_col=0)
     results_file = intermediate_file
-    results_file = perform_pca(data_file, n_factors, intermediate_file)
+    if not exists(results_file):
+        results_file = perform_pca(data_file, n_factors, intermediate_file)
     loadings = pd.read_csv(results_file, index_col=0)
     loadings.columns = [f'Factor{x}' for x in range(1, n_factors+1)]
     print(f"Loadings shape = {loadings.shape}")
@@ -99,8 +102,10 @@ def generate_results(n_factors,
     hexaco_data = load_hexaco_data()
     jaccards = report_jaccards(agent_data, hexaco_data)
     display(HTML(jaccards.to_html()))
-    solution_name = f'Promax {n_factors} factors for PopCensus'
-    plot_jaccards(solution_name, jaccards)
+    solution_name = f'Promax {n_factors} factors for {population_name}'
+    plot_jaccards(solution_name, jaccards, 
+                  'Blues' if population_name == 'PopCensus' else 'Greens',
+                  label_size=10 if n_factors < 7 else 9)
 
     display(Markdown("### Semantic Similarity (between terms within factors):"))
     model = None  # loading the model takes a while, only load if needed.

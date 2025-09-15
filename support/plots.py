@@ -1,8 +1,10 @@
 
 
-def plot_jaccards(solution_name, data, color='Blues'):
+def plot_jaccards(solution_name, data, color='Blues', label_size = 10):
     import seaborn as sns
     import matplotlib.pyplot as plt
+
+    sns.set_theme(style='white', font='Times New Roman')
 
     df_data = data.astype(float)
     df_data = df_data[['Honesty-Humility', 'Emotionality', 'Extraversion', 
@@ -10,16 +12,18 @@ def plot_jaccards(solution_name, data, color='Blues'):
     df_data.columns = ['H', 'E', 'X', 'A', 'C', 'O']
     df_data = df_data.T
     width = len(df_data.index) * 0.75
-    plt.figure(figsize=(width, 4))
+    plt.figure(figsize=(width+1, 4))
     ax = sns.heatmap(df_data,
                      cmap=sns.color_palette(color, as_cmap=True),
                      linewidths=0.5,
                      annot=True,
-                     vmin=0, vmax=0.10) 
+                     vmin=0, vmax=0.2,
+                     annot_kws={"size": label_size},
+                     cbar_kws={"shrink": 0.6})
     ax.set_yticklabels(ax.get_yticklabels(), rotation=0)
     ax.set_ylabel('Hexaco Dimensions\n')
+    ax.set_xticklabels(ax.get_xticklabels(), rotation=90)
     ax.set_xlabel(f'\n{solution_name}')
-    ax.set_title(f'Weighted Jaccard Similarity for {solution_name} solution\n', fontsize=10)
     plt.show()
 
 
@@ -57,13 +61,18 @@ def plot_internal_sims(data, n_factors):
 def plot_hexaco_sims(df):
     import matplotlib.pyplot as plt
     import numpy as np
-    colors = plt.colormaps['tab10'](np.linspace(0, 1, 6))
+    #colors = plt.colormaps['tab10'](np.linspace(0, 1, 7))
     
     import seaborn as sns
     # sns.set_theme(style='white', font='Times New Roman')
-    colors = sns.color_palette("colorblind", n_colors=12)
-    colors = [colors[x] for x in range(0, 12, 2)]
-    
+    #colors = sns.color_palette("colorblind", n_colors=14)
+    #colors = [colors[x] for x in range(0, 14, 2)]
+
+    colors = sns.color_palette("tab20", n_colors=20)
+    #colors = [colors[8], colors[9], colors[12], colors[13],
+    #          colors[18], colors[19]]
+    colors = [colors[6], colors[8], colors[12], colors[14],
+              colors[16], colors[18]]
     # plt.rcParams['font.family'] = 'Times New Roman'
-    df.plot(kind='bar', figsize=(7, 4), color=colors, legend=True)
+    df.plot(kind='bar', figsize=(7, 4), color=colors, alpha=0.7, legend=True)
     plt.legend(loc='upper left', bbox_to_anchor=(1, 1))
