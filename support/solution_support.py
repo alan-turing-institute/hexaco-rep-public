@@ -50,10 +50,10 @@ def plot(df, xlabel, ylabel):
     import matplotlib.pyplot as plt
     import seaborn as sns
    
-    plt.figure(figsize=(6, 4))
+    plt.figure(figsize=(5, 3.4))
     plt.rc('font', family='Times New Roman')
 
-    textsize = 10 
+    textsize = 9
     
     sns.heatmap(
         df,
@@ -62,15 +62,15 @@ def plot(df, xlabel, ylabel):
         cmap=plt.cm.RdBu,
         alpha=0.6,
         linewidths=0.7,
-        annot_kws={"fontsize": textsize},
+        annot_kws={"fontsize": textsize-1},
         vmin=-1.5,
         vmax=1.5,
         cbar=False
     )
 
-    plt.xlabel(xlabel, fontsize=textsize+1)
+    plt.xlabel(xlabel, fontsize=textsize)
     plt.xticks(rotation=0, fontsize=textsize)
-    plt.ylabel(ylabel, fontsize=textsize+1)
+    plt.ylabel(ylabel, fontsize=textsize)
     plt.yticks(rotation=0, fontsize=textsize)
 
     plt.tight_layout()
@@ -80,6 +80,7 @@ def plot(df, xlabel, ylabel):
 def plot_cronbachs_for_population(population='c'):
     """ 
     Prepare DataFrame for plotting Cronbach's alpha across PCA solutions.
+    Support for Fig3.
     """
     import pandas as pd
     from IPython.display import display
@@ -91,7 +92,6 @@ def plot_cronbachs_for_population(population='c'):
     df = pd.DataFrame.from_dict(results, orient='index').T
     df.index = [f"{i+1}" for i in range(df.shape[0])]
     df.columns = [f"{x} ({mean_alphas[i]:.2f})" for i, x in enumerate(df.columns)]
-    display(df)
     
     plot(df, "Solutions (mean alpha) - Pop" + ("Census" if population == 'c' else "Professional"), "Factors")
     return df
