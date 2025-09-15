@@ -94,7 +94,7 @@ This project expects to find the [FastText](https://fasttext.cc/docs/en/crawl-ve
 
 ## License
 
-Data and Code released under MIT License.  Please cite our [research](http://arxiv.org/) if you use either in your work.
+Data and Code released under MIT License.  Please cite our [research](https://arxiv.org/abs/2508.00742) if you use either in your work.
 
 ## Notes
 
