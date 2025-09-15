@@ -69,7 +69,7 @@ HEXACO-PI-R 100:
 
 * [Figure 3](Fig3-SolutionCronbachs.ipynb) - Heatmap of Cronbach's alphas for each factor in all solutions.
 
-* [Figure 6](Fig6-ConvergentValidity.ipynb) - Heatmap of correlation between agents' survey responses and their PIR-100 results.
+* [Figure 6](Fig6-ConvergentValidity.ipynb) - Heatmap of correlation between agents' hexaco scores (derived from lexical analysis using PopC's 10 factor solution loadings) and their PIR-100 results.  Also [Table 1](Fig6-ConvergentValidity.ipynb), correlation scores for all models: Llama, GPT4, Sonnet and Phi.
 
 * [Figure 13](Fig13-SolutionSimilarity.ipynb) - Heatmap of correlation between PopCensus' 10 factors and PopProfessional's 8 factors.
 
